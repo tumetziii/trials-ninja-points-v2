@@ -1,0 +1,36 @@
+# @ idx | track | page | pages | total riders
+# rank | name | faults | time
+@ 0 | Deviant | 1 | 1 | 4
+1|NoviceQk|60|18:01.603
+2|[yaoi] ModRev2020|60|20:36.107
+3|Sly_GT4|81|21:54.662
+4|[QK] RandallQK|99|27:31.671
+@ 1 | Whitespire* | 1 | 1 | 3
+1|[yaoi] ModRev2020|70|18:47.441
+2|[QK] RandallQK|75|21:33.429
+3|Sly_GT4|115|28:36.553
+@ 2 | SP- Rapture | 1 | 1 | 5
+1|[QK] RandallQK|84|27:29.975
+2|Sly_Preda|119|19:06.206
+3|NoviceQk|137|27:54.583
+4|[yaoi] ModRev2020|146|24:21.082
+5|Sly_GT4|167|28:50.301
+@ 3 | Final Sorrow | 1 | 1 | 6
+1|[yaoi] InfernoTrials|68|20:55.551
+2|Sly_GT4|92|24:08.409
+3|NoviceQk|102|26:28.891
+4|[yaoi] ModRev2020|122|27:54.065
+5|Sly_Preda|142|28:02.935
+6|PennyJX|160|27:17.844
+@ 4 | Hattusa* | 1 | 1 | 3
+1|Sly_GT4|23|16:34.751
+2|[QK] RandallQK|53|25:52.219
+3|[yaoi] ModRev2020|63|21:48.612
+@ 5 | Anomaly* | 1 | 1 | 2
+1|MayaQK|122|25:46.811
+2|Sly_GT4|127|18:17.368
+@ 6 | Claymore | 1 | 1 | 1
+1|Sly_GT4|159|26:14.652
+@ 7 | Steel Wave | 1 | 1 | 2
+1|[yaoi] ModRev2020|129|25:18.742
+2|Sly_GT4|209|29:32.285

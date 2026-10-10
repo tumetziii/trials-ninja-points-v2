@@ -1,0 +1,1709 @@
+# @ idx | track | page | pages | total riders
+# rank | name | faults | time
+@ 0 | Xenolith | 1 | 1 | 3
+1|[yaoi] ModRev2020|54|16:27.700
+2|Danimalls|75|19:00.850
+3|[QK] LivingLegend3D|105|19:19.083
+@ 1 | Arctic Sorrow* | 1 | 2 | 14
+1|Danimalls|51|09:43.264
+2|Sly_Preda|60|10:36.305
+3|[QK] DarkMoonV_|82|10:57.636
+4|fafounac|100|15:35.377
+5|[Pepe] MrTrane_|106|14:56.750
+6|[QK] RandallQK|106|17:22.150
+7|Sly_GT4|119|15:37.691
+8|[QK] LivingLegend3D|139|21:51.978
+9|ZarZrak|149|21:17.912
+10|[QK] MercuryQK|157|24:29.666
+@ 2 | Arctic Sorrow* | 2 | 2 | 14
+11|Real_Seven|212|29:40.984
+12|GlobeTF|218|29:07.488
+13|OchrDywyllFawr|219|27:53.295
+14|kie2k8|223|24:32.965
+@ 3 | Beyond Animality* | 1 | 1 | 8
+1|ZarZrak|48|11:19.565
+2|Danimalls|57|11:53.322
+3|Sly_GT4|60|12:46.511
+4|Clashh...|64|14:50.067
+5|kie2k8|69|12:33.056
+6|JoS.lyde|167|20:55.966
+7|Real_Seven|183|27:55.616
+8|RM_Feniks|224|24:24.550
+@ 4 | Bright Futures * | 1 | 1 | 5
+1|Sly_GT4|44|07:25.759
+2|[C] Scottah-|104|12:07.046
+3|Danimalls|146|19:29.008
+4|[yaoi] ModRev2020|155|21:16.531
+5|Clashh...|159|22:00.555
+@ 5 | Dystopian rider [F] | 1 | 1 | 1
+1|Danimalls|63|17:14.696
+@ 6 | Dystopian rider 2.0 | 1 | 1 | 5
+1|Real_Seven|17|12:56.694
+2|[QK] LivingLegend3D|47|26:32.596
+3|NoviceQk|53|17:21.731
+4|[QK] RandallQK|54|28:02.613
+5|Danimalls|60|26:47.610
+@ 7 | SHYU PARK | 1 | 2 | 11
+1|[yaoi] ModRev2020|21|07:43.379
+2|Clashh...|36|12:11.727
+3|Danimalls|72|15:44.461
+4|[QK] LivingLegend3D|84|19:07.588
+5|Sly_Preda|121|24:17.591
+6|RM_Feniks|123|23:41.298
+7|JoS.lyde|132|25:00.762
+8|Aremata|150|24:23.905
+9|[QK] MercuryQK|168|28:45.779
+10|[QK] massivecrow77|169|27:20.574
+@ 8 | SHYU PARK | 2 | 2 | 11
+11|Real_Seven|186|27:09.640
+@ 9 | Incendiary | 1 | 2 | 17
+1|Sly_GT4|4|05:01.414
+2|[yaoi] ModRev2020|26|12:27.034
+3|Real_Seven|42|15:21.163
+4|[QK] LivingLegend3D|48|15:48.323
+5|Danimalls|58|17:35.316
+6|[QK] RandallQK|70|17:25.457
+7|[QK] MercuryQK|75|16:09.303
+8|ZarZrak|80|18:37.654
+9|NoviceQk|82|17:35.849
+10|Clashh...|87|17:33.724
+@ 10 | Incendiary | 2 | 2 | 17
+11|PennyJX|105|17:55.766
+12|MayaQK|120|17:44.404
+13|C0in-C0in.|127|29:16.058
+14|kie2k8|134|28:39.245
+15|[Pepe] Sethie.|150|25:17.700
+16|OchrDywyllFawr|170|26:33.651
+17|GlobeTF|172|27:34.626
+@ 11 | Sumrak* | 1 | 4 | 35
+1|Danimalls|16|07:05.376
+2|Sly_GT4|31|07:52.457
+3|Real_Seven|33|09:58.676
+4|[yaoi] ModRev2020|35|10:44.048
+5|[QK] RandallQK|35|13:15.000
+6|OchrDywyllFawr|45|14:02.396
+7|Aremata|49|11:46.729
+8|MayaQK|77|11:16.444
+9|JoS.lyde|89|16:20.655
+10|[Pepe] Sethie.|97|19:11.780
+@ 12 | Sumrak* | 2 | 4 | 35
+11|Sly_Preda|98|20:34.852
+12|GTY-.|103|17:58.004
+13|[QK] LivingLegend3D|117|23:35.706
+14|SunRiiZe|119|22:56.129
+15|GlobeTF|126|18:27.916
+16|[QK] massivecrow77|130|18:00.360
+17|Cresiix|133|24:01.982
+18|JacobQK|134|27:52.210
+19|[CHUD] E-kitten-abuser|141|28:01.451
+20|Bola_369|147|19:18.653
+@ 13 | Sumrak* | 3 | 4 | 35
+21|AZB_Meister|148|25:10.923
+22|[C] Scottah-|154|17:48.771
+23|[Pepe] Kaketsuslam|155|27:30.871
+24|Clashh...|156|27:59.698
+25|[PCM] NoxMentis|159|29:40.774
+26|[Hero] meear|165|25:20.301
+27|C0in-C0in.|166|22:09.044
+28|[QK] MercuryQK|166|28:24.781
+29|kie2k8|176|25:07.527
+30|[Evil] IBlubbiI|194|29:09.372
+@ 14 | Sumrak* | 4 | 4 | 35
+31|Marple.|196|25:52.746
+32|[Pepe] MrTrane_|198|27:15.059
+33|[345Y] aterichi|216|29:34.983
+34|DonRaphinos|243|26:22.015
+35|Ultra.DeepField|270|28:49.540
+@ 15 | The Slyde's Journey [<3] | 1 | 1 | 5
+1|Sly_GT4|60|16:08.187
+2|Danimalls|113|14:08.876
+3|Sly_Preda|119|15:55.959
+4|JoS.lyde|126|27:14.384
+5|DonRaphinos|175|26:36.957
+@ 16 | [R] Beyond Inhumanity | 1 | 2 | 18
+1|[QK] RandallQK|4|05:08.609
+2|Sly_Preda|25|07:22.326
+3|[yaoi] ModRev2020|33|05:44.825
+4|PennyJX|46|06:41.435
+5|[QK] MercuryQK|51|11:12.581
+6|[Pepe] Kaketsuslam|62|14:18.955
+7|[QK] DarkMoonV_|76|11:50.013
+8|[QK] massivecrow77|116|18:51.328
+9|OchrDywyllFawr|118|12:52.077
+10|[QK] LivingLegend3D|132|20:29.682
+@ 17 | [R] Beyond Inhumanity | 2 | 2 | 18
+11|MayaQK|140|29:23.568
+12|Clashh...|160|20:53.223
+13|DonRaphinos|169|19:21.569
+14|Jukes408|178|20:27.408
+15|Danimalls|218|22:14.786
+16|[QK] sliikk|221|23:22.147
+17|Bola_369|313|27:16.919
+18|kie2k8|342|29:31.157
+@ 18 | Sabotage | 1 | 7 | 64
+1|[QK] RandallQK|7|06:27.479
+2|Qkoosy|18|08:15.354
+3|MayaQK|23|09:35.261
+4|OchrDywyllFawr|23|09:56.427
+5|Sly_GT4|24|08:03.927
+6|[yaoi] ModRev2020|26|07:50.467
+7|[yaoi] InfernoTrials|28|10:06.066
+8|NoviceQk|28|10:35.332
+9|[QK] MercuryQK|30|08:35.368
+10|Real_Seven|30|10:57.179
+@ 19 | Sabotage | 2 | 7 | 64
+11|[C] Scottah-|31|09:01.474
+12|[Pepe] Kaketsuslam|34|13:51.899
+13|Clashh...|37|09:57.761
+14|kie2k8|39|08:05.152
+15|Danimalls|41|12:14.400
+16|Sly_Preda|41|14:51.743
+17|[QK] DarkMoonV_|45|09:11.183
+18|GlobeTF|46|11:41.985
+19|JacobQK|48|11:51.986
+20|Unurgunite|54|12:58.192
+@ 20 | Sabotage | 3 | 7 | 64
+21|[QK] D4rk_Ninja|54|14:47.520
+22|[QK] GraciousXl|54|16:34.476
+23|JoS.lyde|56|13:41.381
+24|PennyJX|56|13:47.564
+25|[QK] LivingLegend3D|57|15:19.400
+26|[Wesh] JuAnEss.|58|15:43.729
+27|[QK] sliikk|65|18:42.337
+28|Skilbobaggins|67|16:04.588
+29|[CHUD] E-kitten-abuser|72|17:19.565
+30|GTY-.|76|18:26.533
+@ 21 | Sabotage | 4 | 7 | 64
+31|[Hero] meear|77|16:11.469
+32|[QK] v_HaroS.|80|15:39.563
+33|Vanillegipferl|84|20:09.423
+34|Bola_369|85|19:20.325
+35|NinjaFlows69|96|18:35.327
+36|fafounac|100|18:01.201
+37|ZarZrak|106|22:06.531
+38|Kaos_Unreal|114|20:37.132
+39|Lokube|114|21:17.678
+40|[PCM] NoxMentis|114|23:32.352
+@ 22 | Sabotage | 5 | 7 | 64
+41|Doughnut_3000|116|24:01.156
+42|JakeQK|117|21:09.321
+43|ApeBoks|118|22:49.941
+44|[Pepe] MrTrane_|120|23:10.544
+45|xScoped.|121|21:22.371
+46|Aremata|125|20:59.440
+47|Xibaqua|131|23:43.636
+48|Lorcan727|132|28:25.525
+49|wa-eeuuuuh|140|23:48.822
+50|AZB_Meister|140|25:12.026
+@ 23 | Sabotage | 6 | 7 | 64
+51|RM_Feniks|141|26:33.508
+52|DonRaphinos|141|27:04.010
+53|Sly_Civ|143|27:38.920
+54|del230330031001|146|24:03.308
+55|C0in-C0in.|147|20:32.748
+56|[Pepe] Sethie.|148|25:20.254
+57|[345Y] aterichi|149|28:26.716
+58|Colberton_|151|26:24.377
+59|SunRiiZe|159|28:13.404
+60|Cresiix|165|28:27.097
+@ 24 | Sabotage | 7 | 7 | 64
+61|Jukes408|178|28:41.219
+62|ThoomWard|182|26:08.812
+63|W0VA|212|27:32.607
+64|[QK] massivecrow77|219|29:59.770
+@ 25 | Side Quest | 1 | 1 | 10
+1|[yaoi] InfernoTrials|4|08:27.055
+2|Danimalls|46|13:32.155
+3|[yaoi] ModRev2020|54|18:48.509
+4|[QK] v_HaroS.|54|19:00.982
+5|[QK] MercuryQK|101|22:46.719
+6|NoviceQk|115|27:08.830
+7|Colberton_|121|22:14.043
+8|[C] Scottah-|138|28:28.887
+9|[QK] RandallQK|159|27:15.525
+10|Real_Seven|172|28:37.290
+@ 26 | Lhotse II | 1 | 1 | 4
+1|Sly_Preda|81|17:26.161
+2|Danimalls|117|24:40.474
+3|Sly_GT4|134|18:38.397
+4|[QK] LivingLegend3D|156|27:04.659
+@ 27 | King Tulip | 1 | 1 | 8
+1|Colberton_|33|13:03.394
+2|Sly_GT4|37|12:46.449
+3|JoS.lyde|78|17:50.975
+4|[QK] LivingLegend3D|89|26:24.729
+5|Danimalls|94|27:05.845
+6|[C] Scottah-|105|17:23.214
+7|[QK] v_HaroS.|105|19:23.188
+8|Sly_Preda|139|27:56.045
+@ 28 | Untethered Angel | 1 | 1 | 7
+1|[yaoi] ModRev2020|88|13:28.419
+2|Sly_GT4|115|12:34.616
+3|Sly_Preda|136|15:36.673
+4|[QK] MercuryQK|146|16:46.977
+5|Danimalls|192|19:09.426
+6|MayaQK|198|20:29.508
+7|[QK] LivingLegend3D|207|23:02.872
+@ 29 | Momentous | 1 | 1 | 10
+1|Sly_GT4|41|11:20.205
+2|[yaoi] ModRev2020|83|14:19.321
+3|MayaQK|125|19:26.364
+4|Sly_Preda|147|22:35.730
+5|[QK] MercuryQK|149|20:25.487
+6|[QK] LivingLegend3D|151|21:40.229
+7|JoS.lyde|163|29:10.713
+8|Danimalls|206|27:59.197
+9|Real_Seven|217|28:30.911
+10|[QK] DarkMoonV_|232|26:47.635
+@ 30 | [NG] Blizzerker | 1 | 1 | 1
+1|Danimalls|147|22:42.780
+@ 31 | Kiwi [<3] | 1 | 1 | 5
+1|Danimalls|59|12:44.066
+2|ZarZrak|91|17:31.048
+3|[yaoi] ModRev2020|124|23:23.979
+4|Sly_GT4|141|21:54.075
+5|GlobeTF|152|25:10.115
+@ 32 | Forlorn* | 1 | 1 | 7
+1|Sly_GT4|22|07:39.746
+2|[yaoi] ModRev2020|23|07:21.056
+3|NoviceQk|42|11:42.702
+4|Danimalls|47|10:05.037
+5|[QK] MercuryQK|90|16:18.625
+6|Sly_Preda|130|22:08.905
+7|[QK] LivingLegend3D|132|20:51.004
+@ 33 | Infraction | 1 | 1 | 2
+1|Danimalls|58|10:25.475
+2|[Pepe] MrTrane_|345|28:01.610
+@ 34 | Barrier | 1 | 1 | 5
+1|Danimalls|117|21:52.087
+2|Real_Seven|136|27:11.302
+3|[C] Scottah-|168|29:25.208
+4|Sly_GT4|204|25:09.468
+5|JoS.lyde|228|29:03.103
+@ 35 | Lorna Shore | 1 | 1 | 8
+1|[QK] LivingLegend3D|52|17:24.802
+2|Sly_Preda|73|17:49.400
+3|[QK] v_HaroS.|74|18:46.213
+4|MayaQK|110|21:04.091
+5|NoviceQk|112|23:49.918
+6|Sly_GT4|125|26:39.196
+7|Danimalls|129|29:33.864
+8|JoS.lyde|136|29:19.195
+@ 36 | Lhotse | 1 | 3 | 27
+1|[yaoi] InfernoTrials|2|04:36.843
+2|Sly_Preda|7|05:36.256
+3|[QK] DarkMoonV_|11|06:39.485
+4|[yaoi] ModRev2020|13|06:14.584
+5|[QK] LivingLegend3D|17|07:56.697
+6|Sly_GT4|19|07:26.391
+7|NoviceQk|34|08:50.547
+8|[PCM] NoxMentis|42|10:58.629
+9|Skilbobaggins|45|09:33.924
+10|Danimalls|48|08:48.673
+@ 37 | Lhotse | 2 | 3 | 27
+11|MayaQK|58|12:02.229
+12|Real_Seven|70|18:30.181
+13|[Hero] meear|72|15:36.366
+14|ZarZrak|74|15:22.666
+15|[Pepe] Kaketsuslam|81|17:26.342
+16|[QK] RandallQK|88|14:29.517
+17|[QK] v_HaroS.|88|15:17.363
+18|DonRaphinos|90|15:29.011
+19|AZB_Meister|92|17:15.083
+20|[QK] MercuryQK|100|16:52.200
+@ 38 | Lhotse | 3 | 3 | 27
+21|SillyBakaSlawa|109|20:26.866
+22|fafounac|110|22:36.844
+23|JoS.lyde|111|23:05.053
+24|C0in-C0in.|130|20:13.911
+25|[CHUD] E-kitten-abuser|134|19:03.235
+26|[Wesh] Ney._.|134|20:56.998
+27|DarkSword_AP|148|28:35.409
+@ 39 | Cliff-Dangler | 1 | 2 | 12
+1|[yaoi] InfernoTrials|15|05:40.095
+2|[QK] v_HaroS.|19|07:34.010
+3|Pyro-Trials|26|12:43.510
+4|[yaoi] ModRev2020|42|13:25.030
+5|AnaQK|44|13:40.043
+6|[CHUD] E-kitten-abuser|54|24:12.390
+7|[Wesh] Ney._.|59|13:05.279
+8|Danimalls|68|18:18.350
+9|C0in-C0in.|69|21:02.248
+10|Ultra.DeepField|92|26:31.627
+@ 40 | Cliff-Dangler | 2 | 2 | 12
+11|Clashh...|100|22:37.946
+12|[QK] LivingLegend3D|111|24:49.403
+@ 41 | Solemn | 1 | 1 | 7
+1|Sly_GT4|25|12:35.191
+2|[yaoi] InfernoTrials|34|11:53.251
+3|JoS.lyde|67|15:58.921
+4|Danimalls|74|20:08.254
+5|Pyro-Trials|101|27:24.931
+6|[Wesh] Vaylon.|111|23:50.729
+7|Ultra.DeepField|146|28:19.585
+@ 42 | King Pin 4 | 1 | 1 | 8
+1|[QK] LivingLegend3D|15|09:03.371
+2|Sly_Preda|16|07:35.258
+3|Sly_GT4|32|09:16.696
+4|[QK] MercuryQK|73|15:40.115
+5|[QK] DarkMoonV_|87|16:09.586
+6|JoS.lyde|87|21:42.698
+7|Danimalls|123|23:05.915
+8|AZB_Meister|177|27:34.769
+@ 43 | Eggplant [<3] | 1 | 1 | 6
+1|Danimalls|70|12:37.071
+2|Sly_GT4|76|14:00.906
+3|[QK] DarkMoonV_|95|13:45.613
+4|[QK] MercuryQK|117|19:47.993
+5|[QK] LivingLegend3D|223|28:58.381
+6|Sly_Preda|225|29:05.617
+@ 44 | Breath of the Dying | 1 | 1 | 7
+1|[QK] DarkMoonV_|43|08:21.838
+2|[QK] MercuryQK|72|13:57.603
+3|Danimalls|82|18:08.597
+4|Sly_GT4|103|23:07.396
+5|[QK] LivingLegend3D|106|21:48.235
+6|Clashh...|126|28:54.678
+7|JoS.lyde|161|24:31.145
+@ 45 | Prince Tulip | 1 | 1 | 7
+1|Real_Seven|40|12:53.621
+2|[C] Scottah-|59|22:03.349
+3|JoS.lyde|67|11:39.676
+4|Danimalls|84|18:38.078
+5|[QK] LivingLegend3D|98|17:25.688
+6|[QK] v_HaroS.|177|27:35.787
+7|Sly_GT4|178|29:15.687
+@ 46 | Ellen | 1 | 2 | 19
+1|[yaoi] InfernoTrials|11|07:39.993
+2|[yaoi] ModRev2020|12|06:26.377
+3|Sly_GT4|17|07:35.614
+4|Danimalls|34|09:44.091
+5|Sly_Preda|39|11:44.113
+6|[QK] LivingLegend3D|41|14:50.294
+7|NoviceQk|70|15:08.576
+8|Real_Seven|87|17:44.043
+9|[CHUD] E-kitten-abuser|98|14:56.143
+10|[QK] MercuryQK|101|17:19.466
+@ 47 | Ellen | 2 | 2 | 19
+11|[Wesh] JuAnEss.|106|25:58.362
+12|Clashh...|107|20:21.690
+13|[Pepe] Kaketsuslam|111|19:39.845
+14|ZarZrak|117|27:26.256
+15|JoS.lyde|130|22:10.448
+16|SillyBakaSlawa|132|24:43.677
+17|AZB_Meister|149|26:01.658
+18|[QK] sliikk|149|27:05.511
+19|DonRaphinos|178|26:02.231
+@ 48 | Filtered | 1 | 2 | 13
+1|Danimalls|10|07:33.558
+2|Sly_GT4|14|05:41.653
+3|[yaoi] ModRev2020|36|11:00.291
+4|fafounac|93|19:56.181
+5|Real_Seven|94|19:51.681
+6|ZarZrak|105|17:09.579
+7|[QK] LivingLegend3D|106|22:41.995
+8|[Pepe] Kaketsuslam|142|29:16.228
+9|JoS.lyde|145|26:10.435
+10|Sly_Preda|148|26:47.315
+@ 49 | Filtered | 2 | 2 | 13
+11|[Wesh] JuAnEss.|153|23:24.792
+12|Colberton_|159|28:40.458
+13|Clashh...|164|26:59.843
+@ 50 | Loathe | 1 | 1 | 8
+1|[yaoi] InfernoTrials|5|09:25.643
+2|[yaoi] ModRev2020|34|16:25.367
+3|Sly_GT4|37|13:36.395
+4|MayaQK|38|24:21.433
+5|NoviceQk|75|20:43.549
+6|Danimalls|79|25:22.125
+7|Real_Seven|82|25:23.819
+8|JoS.lyde|97|26:36.424
+@ 51 | Boundaged | 1 | 1 | 4
+1|GlobeTF|109|16:48.552
+2|JoS.lyde|167|25:50.797
+3|[yaoi] ModRev2020|230|21:43.254
+4|Danimalls|252|25:08.135
+@ 52 | Knebel | 1 | 2 | 20
+1|[yaoi] InfernoTrials|0|05:52.672
+2|Danimalls|3|06:43.066
+3|[yaoi] ModRev2020|15|07:39.069
+4|Sly_GT4|18|05:56.063
+5|[QK] LivingLegend3D|42|19:59.579
+6|[QK] RandallQK|61|14:01.797
+7|Clashh...|61|17:49.307
+8|Real_Seven|62|21:17.411
+9|NoviceQk|65|12:46.427
+10|JoS.lyde|65|17:00.856
+@ 53 | Knebel | 2 | 2 | 20
+11|[Pepe] Kaketsuslam|72|26:35.711
+12|Colberton_|73|16:27.846
+13|ZarZrak|85|26:09.013
+14|GlobeTF|105|26:39.355
+15|[Hero] meear|120|24:43.522
+16|Sly_Preda|135|21:42.380
+17|C0in-C0in.|151|29:01.204
+18|[CHUD] E-kitten-abuser|152|20:36.087
+19|[Wesh] JuAnEss.|158|29:10.072
+20|MayaQK|188|25:44.951
+@ 54 | Slate | 1 | 1 | 4
+1|[QK] DarkMoonV_|22|07:47.721
+2|[QK] LivingLegend3D|78|18:28.551
+3|Danimalls|85|18:15.209
+4|Skilbobaggins|94|21:57.626
+@ 55 | Interval [<3] | 1 | 1 | 10
+1|[yaoi] InfernoTrials|46|11:38.951
+2|Sly_GT4|58|13:00.753
+3|Danimalls|78|14:44.462
+4|Colberton_|129|23:20.708
+5|[QK] LivingLegend3D|140|21:56.194
+6|kie2k8|147|21:20.407
+7|Clashh...|155|25:39.166
+8|[Pepe] Kaketsuslam|156|24:18.109
+9|JoS.lyde|168|27:51.207
+10|[QK] v_HaroS.|191|27:11.024
+@ 56 | Fake Promise | 1 | 2 | 11
+1|Sly_GT4|37|07:27.906
+2|[yaoi] ModRev2020|50|09:12.288
+3|[QK] MercuryQK|54|10:41.301
+4|Danimalls|69|15:39.466
+5|Clashh...|104|21:59.089
+6|Sly_Preda|115|23:17.283
+7|[C] Scottah-|119|19:16.117
+8|[QK] DarkMoonV_|125|16:04.113
+9|[QK] LivingLegend3D|135|24:50.551
+10|JoS.lyde|198|25:21.960
+@ 57 | Fake Promise | 2 | 2 | 11
+11|kie2k8|250|28:47.135
+@ 58 | Maze | 1 | 2 | 12
+1|[yaoi] ModRev2020|11|07:04.022
+2|Danimalls|34|09:59.414
+3|[QK] DarkMoonV_|35|08:47.682
+4|ZarZrak|46|12:20.323
+5|Clashh...|56|14:05.304
+6|Sly_GT4|64|15:08.135
+7|[Wesh] JuAnEss.|74|17:30.497
+8|JoS.lyde|78|13:45.435
+9|[Pepe] Kaketsuslam|78|14:21.681
+10|[QK] LivingLegend3D|80|21:37.935
+@ 59 | Maze | 2 | 2 | 12
+11|[Hero] meear|84|20:52.991
+12|Sly_Preda|86|20:17.261
+@ 60 | [FM] Nutritious II | 1 | 3 | 28
+1|[QK] LivingLegend3D|3|05:59.063
+2|Sly_Preda|5|06:07.011
+3|[QK] DarkMoonV_|9|08:39.035
+4|Sly_GT4|11|07:34.872
+5|NoviceQk|21|09:00.072
+6|Danimalls|22|10:02.292
+7|ApeBoks|39|13:15.510
+8|RM_Feniks|58|16:32.689
+9|AZB_Meister|70|15:08.402
+10|[CHUD] E-kitten-abuser|73|16:27.569
+@ 61 | [FM] Nutritious II | 2 | 3 | 28
+11|JoS.lyde|79|18:27.158
+12|Clashh...|79|19:12.652
+13|C0in-C0in.|81|17:15.652
+14|Real_Seven|87|18:40.151
+15|[Pepe] Kaketsuslam|88|23:38.732
+16|[Hero] meear|102|27:42.576
+17|[QK] MercuryQK|106|23:34.956
+18|OchrDywyllFawr|107|20:30.368
+19|[Pepe] MrTrane_|115|23:35.887
+20|SillyBakaSlawa|115|27:10.855
+@ 62 | [FM] Nutritious II | 3 | 3 | 28
+21|geshimin|122|28:50.204
+22|DarkSword_AP|123|27:58.129
+23|fafounac|127|29:57.034
+24|Kaos_Unreal|132|26:49.569
+25|NinjaFlows69|136|26:15.921
+26|ZarZrak|139|25:24.042
+27|[Wesh] JuAnEss.|145|29:55.756
+28|MayaQK|173|27:25.017
+@ 63 | Halcyon | 1 | 1 | 9
+1|Danimalls|19|09:03.812
+2|Sly_GT4|21|07:39.884
+3|[Pepe] Kaketsuslam|72|20:01.451
+4|Clashh...|92|15:52.807
+5|Pyro-Trials|136|25:35.631
+6|[QK] LivingLegend3D|142|28:16.425
+7|NinjaFlows69|174|29:34.858
+8|JoS.lyde|180|26:10.878
+9|[Hero] meear|183|29:53.522
+@ 64 | Procyon [7] | 1 | 1 | 8
+1|Sly_GT4|13|05:06.211
+2|[QK] MercuryQK|71|11:07.077
+3|Clashh...|98|15:05.385
+4|Danimalls|103|16:34.582
+5|Real_Seven|170|22:19.844
+6|Sly_Preda|175|19:14.419
+7|[QK] LivingLegend3D|199|28:32.082
+8|[Wesh] JuAnEss.|219|26:26.058
+@ 65 | Apathy | 1 | 1 | 4
+1|Danimalls|22|08:22.271
+2|[QK] MercuryQK|77|18:50.928
+3|JoS.lyde|118|24:09.538
+4|Ultra.DeepField|156|22:26.196
+@ 66 | Cauterize | 1 | 1 | 10
+1|Danimalls|14|09:47.266
+2|[yaoi] InfernoTrials|48|13:38.435
+3|Sly_GT4|50|17:19.107
+4|JoS.lyde|58|19:50.753
+5|Bola_369|63|20:24.676
+6|NoviceQk|79|18:02.223
+7|Colberton_|87|20:12.064
+8|[QK] LivingLegend3D|89|26:26.702
+9|[Hero] meear|93|20:31.664
+10|Clashh...|95|22:41.113
+@ 67 | Bright Futures * | 1 | 1 | 5
+1|Sly_GT4|44|07:25.759
+2|[C] Scottah-|104|12:07.046
+3|Danimalls|146|19:29.008
+4|[yaoi] ModRev2020|155|21:16.531
+5|Clashh...|159|22:00.555
+@ 68 | Zamoth | 1 | 1 | 9
+1|Sly_GT4|21|06:38.736
+2|Danimalls|47|10:49.107
+3|[QK] LivingLegend3D|93|21:31.201
+4|Sly_Preda|129|21:48.543
+5|[QK] RandallQK|134|21:37.245
+6|Clashh...|136|23:07.016
+7|ZarZrak|140|25:48.137
+8|[Pepe] doubi014|151|24:13.414
+9|JoS.lyde|195|26:15.513
+@ 69 | Litchi | 1 | 3 | 21
+1|[C] Scottah-|25|07:25.114
+2|[yaoi] ModRev2020|70|09:54.601
+3|[QK] sliikk|77|09:40.644
+4|Sly_GT4|100|12:43.655
+5|Colberton_|104|15:24.557
+6|Danimalls|105|16:14.183
+7|Real_Seven|132|17:15.404
+8|[QK] MercuryQK|138|17:27.624
+9|[Pepe] Kaketsuslam|167|22:52.696
+10|Clashh...|172|18:33.675
+@ 70 | Litchi | 2 | 3 | 21
+11|[QK] LivingLegend3D|182|21:06.266
+12|[Wesh] JuAnEss.|189|26:22.420
+13|JoS.lyde|204|18:13.266
+14|GlobeTF|210|29:35.713
+15|Lorcan727|224|21:49.170
+16|C0in-C0in.|246|27:13.640
+17|Sly_Preda|247|26:24.887
+18|AZB_Meister|248|29:50.619
+19|ZarZrak|261|26:47.456
+20|DonRaphinos|267|24:47.542
+@ 71 | Litchi | 3 | 3 | 21
+21|[CHUD] E-kitten-abuser|287|27:53.693
+@ 72 | Yuri | 1 | 1 | 7
+1|[yaoi] ModRev2020|8|04:24.845
+2|PennyJX|31|07:27.989
+3|Danimalls|53|11:39.842
+4|Sly_GT4|54|09:56.868
+5|Sly_Preda|114|16:19.970
+6|NoviceQk|146|19:51.497
+7|JoS.lyde|146|22:15.503
+@ 73 | Wayfarer | 1 | 4 | 36
+1|[yaoi] InfernoTrials|0|02:49.675
+2|Sly_GT4|16|03:42.002
+3|Sly_Preda|17|05:20.714
+4|[yaoi] ModRev2020|19|04:42.371
+5|Clashh...|39|07:16.923
+6|MayaQK|43|05:06.277
+7|Danimalls|47|07:35.679
+8|RM_Feniks|54|07:01.185
+9|[QK] DarkMoonV_|66|07:31.281
+10|[QK] LivingLegend3D|70|07:36.153
+@ 74 | Wayfarer | 2 | 4 | 36
+11|Kaos_Unreal|77|09:44.302
+12|[Pepe] Kaketsuslam|84|12:04.844
+13|[C] Scottah-|91|09:43.504
+14|[Hero] meear|94|09:53.043
+15|[QK] v_HaroS.|105|09:18.837
+16|GTY-.|118|13:49.985
+17|ZarZrak|119|12:29.428
+18|DarkSword_AP|122|13:51.192
+19|GlobeTF|132|13:04.134
+20|Real_Seven|134|13:35.460
+@ 75 | Wayfarer | 3 | 4 | 36
+21|[QK] RandallQK|138|13:37.454
+22|[Wesh] Ney._.|145|12:26.581
+23|JoS.lyde|147|13:07.535
+24|[QK] MercuryQK|158|14:24.246
+25|NinjaFlows69|166|15:45.294
+26|Doughnut_3000|170|18:09.288
+27|JakeQK|183|22:21.046
+28|[Wesh] JuAnEss.|190|16:54.487
+29|SillyBakaSlawa|203|20:23.633
+30|SunRiiZe|227|22:50.236
+@ 76 | Wayfarer | 4 | 4 | 36
+31|[CHUD] E-kitten-abuser|261|21:58.597
+32|C0in-C0in.|303|23:31.488
+33|fafounac|321|24:08.609
+34|AZB_Meister|362|24:19.142
+35|AnaQK|364|24:46.858
+36|[PCM] NoxMentis|386|29:54.836
+@ 77 | Farrago | 1 | 1 | 6
+1|Sly_GT4|13|07:56.412
+2|Clashh...|60|14:45.844
+3|Sly_Preda|105|16:54.764
+4|[QK] LivingLegend3D|109|29:17.961
+5|Danimalls|127|22:37.462
+6|JoS.lyde|155|26:57.756
+@ 78 | Detritus [F] | 1 | 1 | 2
+1|Danimalls|115|25:15.419
+2|[yaoi] ModRev2020|161|28:24.742
+@ 79 | Facinorous | 1 | 1 | 6
+1|[QK] LivingLegend3D|48|17:32.802
+2|Danimalls|61|14:36.803
+3|JoS.lyde|61|15:50.779
+4|Sly_GT4|62|11:43.662
+5|Clashh...|79|22:28.013
+6|Sly_Preda|96|25:32.070
+@ 80 | Fantasma** | 1 | 1 | 6
+1|Sly_GT4|10|07:14.756
+2|Clashh...|29|11:56.373
+3|[QK] RandallQK|52|21:37.119
+4|Danimalls|82|21:29.269
+5|[QK] LivingLegend3D|98|28:43.190
+6|Real_Seven|122|29:30.318
+@ 81 | Pernicious | 1 | 2 | 13
+1|Danimalls|26|11:17.345
+2|Sly_Preda|33|10:27.579
+3|[QK] DarkMoonV_|39|09:15.093
+4|[QK] LivingLegend3D|65|16:06.379
+5|ZarZrak|76|15:21.585
+6|Clashh...|84|16:34.507
+7|OchrDywyllFawr|97|19:16.192
+8|Sly_GT4|132|20:03.329
+9|[Hero] meear|137|23:37.102
+10|RM_Feniks|139|26:48.233
+@ 82 | Pernicious | 2 | 2 | 13
+11|AZB_Meister|163|21:40.856
+12|JoS.lyde|164|23:32.118
+13|kie2k8|223|29:50.463
+@ 83 | Legling Divne | 1 | 2 | 15
+1|[yaoi] InfernoTrials|0|05:46.463
+2|[yaoi] ModRev2020|5|08:48.680
+3|Sly_GT4|10|10:09.303
+4|Sly_Preda|12|09:45.120
+5|ZarZrak|17|11:58.986
+6|MayaQK|28|13:02.402
+7|Clashh...|32|15:47.186
+8|[QK] v_HaroS.|33|12:24.289
+9|[Wesh] JuAnEss.|36|16:51.313
+10|[QK] LivingLegend3D|38|19:01.117
+@ 84 | Legling Divne | 2 | 2 | 15
+11|[CHUD] E-kitten-abuser|49|18:52.491
+12|JoS.lyde|56|25:07.907
+13|Danimalls|61|22:51.448
+14|Real_Seven|64|20:07.075
+15|[Hero] meear|70|25:21.349
+@ 85 | Technician 2 | 1 | 1 | 6
+1|[Hero] meear|28|12:21.101
+2|Sly_GT4|46|11:47.438
+3|Pyro-Trials|49|17:18.743
+4|Danimalls|81|23:44.921
+5|Ultra.DeepField|83|15:28.930
+6|GlobeTF|111|25:18.066
+@ 86 | Tedium | 1 | 1 | 10
+1|[QK] RandallQK|13|03:27.702
+2|Real_Seven|24|07:30.645
+3|[yaoi] ModRev2020|29|09:00.370
+4|GlobeTF|31|07:32.856
+5|NoviceQk|61|09:08.587
+6|Sly_Preda|75|14:53.202
+7|Danimalls|95|16:47.996
+8|Ultra.DeepField|116|20:28.944
+9|ZarZrak|294|21:47.587
+10|MayaQK|312|20:26.181
+@ 87 | Peach [F] | 1 | 1 | 7
+1|[C] Scottah-|140|15:19.561
+2|ZarZrak|146|16:55.556
+3|[QK] v_HaroS.|206|20:08.959
+4|GlobeTF|241|25:47.953
+5|Real_Seven|264|24:12.963
+6|Qkoosy|328|25:58.042
+7|Danimalls|341|25:59.817
+@ 88 | King Pin | 1 | 2 | 11
+1|Sly_GT4|4|07:19.262
+2|[QK] DarkMoonV_|5|10:03.794
+3|Sly_Preda|16|09:31.216
+4|NoviceQk|22|10:52.537
+5|[QK] LivingLegend3D|32|13:29.133
+6|Skilbobaggins|54|16:41.726
+7|Danimalls|65|15:21.303
+8|ZarZrak|89|21:53.172
+9|JoS.lyde|125|27:07.975
+10|AZB_Meister|129|25:24.945
+@ 89 | King Pin | 2 | 2 | 11
+11|JakeQK|129|28:40.316
+@ 90 | Iratze | 1 | 2 | 15
+1|Real_Seven|34|10:01.021
+2|Sly_GT4|36|10:08.217
+3|[yaoi] InfernoTrials|72|12:23.888
+4|GlobeTF|85|16:38.189
+5|[QK] LivingLegend3D|86|18:36.618
+6|Aremata|90|18:31.892
+7|[Hero] meear|118|20:12.701
+8|Ultra.DeepField|127|21:32.992
+9|[Pepe] doubi014|177|21:09.744
+10|Qkoosy|177|23:25.924
+@ 91 | Iratze | 2 | 2 | 15
+11|ZarZrak|186|22:05.127
+12|AnaQK|210|28:35.507
+13|Danimalls|228|29:37.560
+14|[Wesh] Vaylon.|245|28:32.582
+15|[Hero] H_ak_u|265|29:21.741
+@ 92 | Gulag | 1 | 3 | 22
+1|[yaoi] InfernoTrials|0|02:36.482
+2|Clashh...|31|07:24.973
+3|[yaoi] ModRev2020|51|09:51.229
+4|Danimalls|53|11:57.447
+5|Qkoosy|74|16:25.179
+6|Real_Seven|82|14:57.066
+7|[Hero] meear|91|17:21.565
+8|[Pepe] Sethie.|107|17:47.117
+9|ZarZrak|107|22:49.459
+10|MayaQK|129|16:25.455
+@ 93 | Gulag | 2 | 3 | 22
+11|Sly_GT4|133|17:55.670
+12|[Wesh] Ney._.|135|22:08.881
+13|[C] Scottah-|138|21:11.535
+14|[Hero] H_ak_u|151|21:52.616
+15|RM_Feniks|159|26:29.344
+16|Ultra.DeepField|160|23:40.042
+17|[QK] LivingLegend3D|161|23:29.077
+18|C0in-C0in.|164|21:26.158
+19|GlobeTF|189|27:51.186
+20|AnaQK|204|27:01.198
+@ 94 | Gulag | 3 | 3 | 22
+21|DonRaphinos|211|24:17.849
+22|[CHUD] E-kitten-abuser|227|29:47.922
+@ 95 | Sentinel | 1 | 2 | 11
+1|Sly_GT4|4|05:37.376
+2|NoviceQk|36|13:16.080
+3|Kaos_Unreal|49|15:14.619
+4|[C] Scottah-|50|14:41.258
+5|RM_Feniks|62|17:30.384
+6|Clashh...|64|20:53.256
+7|kie2k8|66|21:15.007
+8|Danimalls|69|23:42.161
+9|Sly_Preda|81|19:57.646
+10|[CHUD] E-kitten-abuser|94|23:52.124
+@ 96 | Sentinel | 2 | 2 | 11
+11|[QK] LivingLegend3D|100|27:24.610
+@ 97 | Demorage | 1 | 1 | 9
+1|Sly_GT4|16|07:13.283
+2|[QK] LivingLegend3D|36|14:59.916
+3|[QK] MercuryQK|44|12:22.700
+4|Danimalls|86|18:50.183
+5|kie2k8|96|20:44.583
+6|Sly_Preda|97|15:24.350
+7|Clashh...|116|28:34.133
+8|NinjaFlows69|134|27:41.166
+9|AZB_Meister|147|26:50.683
+@ 98 | Ataraxia | 1 | 2 | 11
+1|Danimalls|14|07:41.645
+2|[yaoi] ModRev2020|36|07:39.140
+3|Sly_GT4|55|09:15.743
+4|NoviceQk|130|16:37.794
+5|[QK] LivingLegend3D|144|21:54.773
+6|Sly_Preda|193|22:04.753
+7|kie2k8|223|26:13.368
+8|JoS.lyde|225|25:30.093
+9|[QK] RandallQK|227|25:34.393
+10|Clashh...|231|25:04.428
+@ 99 | Ataraxia | 2 | 2 | 11
+11|NinjaFlows69|259|23:05.735
+@ 100 | Xiyga | 1 | 1 | 6
+1|Sly_GT4|16|05:42.209
+2|Sly_Preda|121|16:14.244
+3|kie2k8|151|15:46.344
+4|[QK] LivingLegend3D|193|27:15.649
+5|Clashh...|208|25:22.204
+6|Danimalls|219|23:27.833
+@ 101 | Technician | 1 | 1 | 9
+1|Sly_GT4|8|05:47.890
+2|Danimalls|31|08:42.991
+3|[C] Scottah-|49|09:33.223
+4|GlobeTF|107|22:10.642
+5|[yaoi] ModRev2020|109|17:25.775
+6|[Hero] meear|127|26:34.612
+7|Real_Seven|130|23:03.648
+8|Ultra.DeepField|136|22:51.930
+9|Clashh...|158|23:00.228
+@ 102 | Trivium | 1 | 2 | 20
+1|[yaoi] InfernoTrials|0|03:49.846
+2|NoviceQk|12|07:08.003
+3|Real_Seven|21|10:32.108
+4|Danimalls|37|11:51.069
+5|Sly_GT4|39|09:00.644
+6|[CHUD] E-kitten-abuser|59|14:14.579
+7|Sly_Preda|71|16:56.733
+8|[Hero] meear|81|13:31.835
+9|[Wesh] JuAnEss.|88|20:34.115
+10|[QK] LivingLegend3D|89|23:38.918
+@ 103 | Trivium | 2 | 2 | 20
+11|Ultra.DeepField|102|17:39.598
+12|[Wesh] Ney._.|105|14:31.067
+13|[Pepe] doubi014|106|28:26.501
+14|ZarZrak|113|23:23.027
+15|[Pepe] MrTrane_|116|21:56.625
+16|[Pepe] Kaketsuslam|119|22:02.441
+17|C0in-C0in.|150|20:40.616
+18|Pyro-Trials|172|26:40.356
+19|DonRaphinos|196|21:15.831
+20|GlobeTF|200|26:58.258
+@ 104 | Hypocrisy | 1 | 3 | 26
+1|Sly_GT4|12|07:00.218
+2|[yaoi] ModRev2020|21|07:59.243
+3|NoviceQk|26|10:10.929
+4|[Pepe] Kaketsuslam|28|11:28.758
+5|MayaQK|40|10:03.916
+6|[CHUD] E-kitten-abuser|48|10:56.837
+7|Danimalls|55|20:55.348
+8|Sly_Preda|66|17:29.656
+9|[QK] LivingLegend3D|68|19:12.897
+10|PennyJX|79|18:58.904
+@ 105 | Hypocrisy | 2 | 3 | 26
+11|AZB_Meister|82|18:02.337
+12|[Pepe] MrTrane_|82|18:30.188
+13|[QK] DarkMoonV_|92|20:41.467
+14|[QK] MercuryQK|103|20:19.784
+15|[QK] RandallQK|105|27:13.465
+16|ZarZrak|112|24:55.523
+17|Clashh...|117|19:41.791
+18|[Wesh] JuAnEss.|123|29:32.235
+19|SillyBakaSlawa|124|23:31.133
+20|[Hero] meear|128|26:25.089
+@ 106 | Hypocrisy | 3 | 3 | 26
+21|GlobeTF|136|25:50.408
+22|Real_Seven|146|24:38.905
+23|kie2k8|150|27:00.713
+24|[QK] massivecrow77|152|24:38.306
+25|[QK] v_HaroS.|165|29:42.700
+26|OchrDywyllFawr|177|28:28.418
+@ 107 | Adrenaline [F] | 1 | 2 | 15
+1|Sly_GT4|13|07:14.999
+2|[yaoi] ModRev2020|46|12:31.349
+3|Danimalls|59|13:58.266
+4|[QK] RandallQK|67|18:54.025
+5|[QK] DarkMoonV_|78|17:34.517
+6|Skilbobaggins|79|20:28.073
+7|Sly_Preda|85|16:00.790
+8|ZarZrak|118|20:43.808
+9|MayaQK|147|24:15.398
+10|[QK] MercuryQK|151|26:29.248
+@ 108 | Adrenaline [F] | 2 | 2 | 15
+11|[QK] LivingLegend3D|152|28:27.424
+12|[QK] v_HaroS.|153|25:47.932
+13|JoS.lyde|153|28:45.716
+14|kie2k8|177|26:32.836
+15|Clashh...|196|29:28.172
+@ 109 | Vicit | 1 | 2 | 15
+1|Sly_GT4|15|06:23.348
+2|[yaoi] ModRev2020|29|08:56.799
+3|Danimalls|31|10:32.749
+4|Clashh...|117|18:10.799
+5|[QK] DarkMoonV_|124|17:06.475
+6|RM_Feniks|126|21:59.132
+7|PennyJX|135|21:19.349
+8|[QK] LivingLegend3D|147|23:35.837
+9|AZB_Meister|157|19:05.080
+10|[CHUD] E-kitten-abuser|157|20:35.566
+@ 110 | Vicit | 2 | 2 | 15
+11|Sly_Preda|165|19:03.566
+12|Skilbobaggins|171|26:29.166
+13|kie2k8|181|26:30.366
+14|JoS.lyde|196|24:27.065
+15|[QK] RandallQK|208|28:40.966
+@ 111 | Xibalba | 1 | 1 | 9
+1|[yaoi] ModRev2020|38|12:32.819
+2|Sly_GT4|58|12:24.195
+3|Danimalls|80|21:07.295
+4|[QK] LivingLegend3D|86|18:48.269
+5|NoviceQk|90|20:06.746
+6|Clashh...|102|25:34.511
+7|JoS.lyde|150|27:21.768
+8|Sly_Preda|154|29:28.791
+9|kie2k8|201|28:53.594
+@ 112 | Ripted | 1 | 3 | 25
+1|[yaoi] InfernoTrials|0|05:00.543
+2|Real_Seven|9|08:47.628
+3|Sly_GT4|29|09:38.843
+4|Danimalls|47|18:57.094
+5|NoviceQk|51|15:42.360
+6|[Pepe] doubi014|52|15:23.323
+7|Sly_Preda|61|19:14.511
+8|Qkoosy|66|15:21.093
+9|DonRaphinos|82|17:25.903
+10|JoS.lyde|82|18:37.323
+@ 113 | Ripted | 2 | 3 | 25
+11|[Hero] meear|83|19:56.452
+12|GlobeTF|85|19:24.831
+13|Clashh...|91|18:48.151
+14|JakeQK|91|21:22.570
+15|SunRiiZe|92|19:43.424
+16|AZB_Meister|97|20:04.559
+17|[QK] LivingLegend3D|106|24:21.922
+18|ZarZrak|112|26:57.311
+19|[QK] MercuryQK|132|25:41.400
+20|[CHUD] E-kitten-abuser|145|29:38.286
+@ 114 | Ripted | 3 | 3 | 25
+21|Aremata|151|24:42.790
+22|PennyJX|159|27:50.380
+23|AnaQK|175|28:13.355
+24|Ultra.DeepField|176|26:53.050
+25|C0in-C0in.|197|27:04.240
+@ 115 | Monstrum Duo | 1 | 1 | 4
+1|Clashh...|12|16:01.948
+2|[QK] LivingLegend3D|34|21:42.397
+3|kie2k8|62|24:44.571
+4|Danimalls|173|29:04.013
+@ 116 | Fuji | 1 | 4 | 38
+1|Sly_GT4|0|02:28.000
+2|[QK] LivingLegend3D|5|03:54.365
+3|[yaoi] ModRev2020|10|03:43.198
+4|[CHUD] E-kitten-abuser|17|04:53.188
+5|Danimalls|19|07:14.380
+6|NoviceQk|26|06:12.789
+7|[Hero] meear|49|08:57.100
+8|Sly_Preda|55|08:44.495
+9|Clashh...|69|12:13.299
+10|ApeBoks|79|12:33.646
+@ 117 | Fuji | 2 | 4 | 38
+11|Skilbobaggins|80|11:49.913
+12|[QK] v_HaroS.|81|10:47.569
+13|kie2k8|88|10:20.514
+14|Aremata|91|10:28.723
+15|[Mori] gx1.|92|12:26.208
+16|[Wesh] Ney._.|102|12:46.448
+17|C0in-C0in.|103|12:16.143
+18|OchrDywyllFawr|109|14:11.481
+19|[Pepe] doubi014|113|14:35.987
+20|[QK] MercuryQK|119|16:02.260
+@ 118 | Fuji | 3 | 4 | 38
+21|JakeQK|122|15:12.973
+22|[QK] DarkMoonV_|123|16:47.489
+23|Qkoosy|135|15:20.070
+24|[QK] RandallQK|143|19:54.767
+25|Real_Seven|155|21:41.637
+26|JoS.lyde|170|17:34.741
+27|SillyBakaSlawa|170|24:10.180
+28|AnaQK|174|18:09.382
+29|ZarZrak|174|21:50.010
+30|fafounac|189|21:37.134
+@ 119 | Fuji | 4 | 4 | 38
+31|[Pepe] Kaketsuslam|196|23:47.879
+32|NinjaFlows69|202|22:15.124
+33|AZB_Meister|220|25:27.709
+34|[Wesh] JuAnEss.|233|28:16.290
+35|[PCM] NoxMentis|260|29:53.328
+36|SunRiiZe|264|25:13.971
+37|Kaos_Unreal|282|27:18.436
+38|DarkSword_AP|290|26:33.521
+@ 120 | Resilience 3 | 1 | 1 | 6
+1|Sly_GT4|14|05:53.171
+2|[QK] DarkMoonV_|45|10:46.592
+3|[QK] LivingLegend3D|94|24:57.672
+4|Danimalls|115|28:38.716
+5|Sly_Preda|116|22:53.631
+6|[QK] RandallQK|122|21:12.021
+@ 121 | Demente | 1 | 2 | 19
+1|Danimalls|14|06:09.973
+2|Sly_GT4|32|07:33.404
+3|GlobeTF|56|16:11.706
+4|Real_Seven|58|12:16.788
+5|Clashh...|86|14:57.864
+6|Sly_Preda|96|13:13.321
+7|Lorcan727|99|15:33.626
+8|[Pepe] Kaketsuslam|100|18:02.853
+9|DonRaphinos|112|24:02.158
+10|NoviceQk|124|20:17.321
+@ 122 | Demente | 2 | 2 | 19
+11|[PCM] NoxMentis|124|20:57.217
+12|[Pepe] MrTrane_|126|18:42.510
+13|RM_Feniks|140|20:08.923
+14|[C] Scottah-|143|20:07.286
+15|[QK] LivingLegend3D|155|26:24.645
+16|[Hero] meear|172|21:46.511
+17|MayaQK|192|20:27.448
+18|ZarZrak|222|24:55.248
+19|kie2k8|278|29:24.116
+@ 123 | Dead End | 1 | 2 | 14
+1|Sly_Preda|0|03:47.218
+2|[yaoi] ModRev2020|3|03:34.836
+3|Sly_GT4|5|05:04.643
+4|[QK] LivingLegend3D|21|07:19.998
+5|ApeBoks|81|13:34.409
+6|RM_Feniks|86|17:48.923
+7|[Pepe] Kaketsuslam|94|22:54.479
+8|[CHUD] E-kitten-abuser|132|17:38.722
+9|Danimalls|142|20:22.517
+10|C0in-C0in.|173|24:01.386
+@ 124 | Dead End | 2 | 2 | 14
+11|ZarZrak|178|20:20.423
+12|DarkSword_AP|194|26:40.482
+13|[QK] DarkMoonV_|205|25:42.334
+14|JoS.lyde|267|22:46.880
+@ 125 | Resilience 2 | 1 | 2 | 15
+1|Danimalls|16|11:33.951
+2|AZB_Meister|37|13:19.654
+3|[CHUD] E-kitten-abuser|53|14:41.369
+4|JoS.lyde|62|17:53.971
+5|Sly_Preda|66|20:13.435
+6|NoviceQk|67|20:01.812
+7|Vanillegipferl|69|21:20.659
+8|[QK] LivingLegend3D|73|26:32.336
+9|kie2k8|74|18:22.792
+10|[Wesh] JuAnEss.|78|29:28.295
+@ 126 | Resilience 2 | 2 | 2 | 15
+11|Qkoosy|80|27:57.854
+12|Real_Seven|86|24:36.016
+13|[Hero] meear|89|20:55.943
+14|JakeQK|109|24:35.892
+15|MayaQK|123|25:22.962
+@ 127 | Rigorous | 1 | 1 | 9
+1|Danimalls|14|09:17.767
+2|Sly_GT4|20|08:10.900
+3|[yaoi] ModRev2020|32|11:21.684
+4|Clashh...|51|12:33.595
+5|kie2k8|77|16:36.123
+6|NoviceQk|89|20:26.421
+7|[QK] LivingLegend3D|126|27:21.445
+8|JoS.lyde|147|24:40.804
+9|[QK] RandallQK|158|26:35.030
+@ 128 | Beyond Inhumanity 2 fix | 1 | 1 | 3
+1|[yaoi] ModRev2020|69|20:56.085
+2|Sly_GT4|121|22:45.953
+3|Danimalls|203|26:51.659
+@ 129 | Devoted IV | 1 | 4 | 37
+1|Sly_GT4|5|04:48.892
+2|Danimalls|14|07:03.621
+3|[QK] LivingLegend3D|24|08:56.732
+4|Sly_Preda|29|10:12.833
+5|JakeQK|30|12:48.668
+6|[QK] DarkMoonV_|34|09:41.381
+7|MayaQK|43|10:54.230
+8|JoS.lyde|44|12:23.835
+9|Real_Seven|48|13:14.788
+10|[CHUD] E-kitten-abuser|48|15:37.960
+@ 130 | Devoted IV | 2 | 4 | 37
+11|GTY-.|62|13:12.609
+12|Clashh...|62|17:18.841
+13|[Pepe] Sethie.|68|17:16.227
+14|fafounac|71|15:42.816
+15|[QK] MercuryQK|71|16:19.680
+16|[Hero] meear|74|16:11.495
+17|[Pepe] MrTrane_|75|19:52.227
+18|C0in-C0in.|77|20:58.992
+19|PennyJX|79|18:40.116
+20|ZarZrak|83|14:37.050
+@ 131 | Devoted IV | 3 | 4 | 37
+21|[Pepe] doubi014|88|23:00.606
+22|[QK] RandallQK|89|19:25.942
+23|[C] Scottah-|91|22:05.005
+24|DonRaphinos|98|15:10.509
+25|Kaos_Unreal|98|18:00.823
+26|AZB_Meister|100|24:14.124
+27|[Pepe] Kaketsuslam|107|21:16.486
+28|DarkSword_AP|108|23:31.124
+29|[QK] D4rk_Ninja|112|26:01.929
+30|[Wesh] Ney._.|120|26:11.333
+@ 132 | Devoted IV | 4 | 4 | 37
+31|Qkoosy|124|26:28.469
+32|SillyBakaSlawa|129|28:19.016
+33|[Wesh] JuAnEss.|135|29:21.905
+34|Lorcan727|166|25:21.277
+35|SunRiiZe|171|28:02.130
+36|NinjaFlows69|172|28:42.014
+37|kie2k8|185|28:49.712
+@ 133 | Antiquity | 1 | 1 | 7
+1|Sly_GT4|0|04:26.187
+2|Danimalls|13|08:00.818
+3|Qkoosy|81|20:56.709
+4|[QK] LivingLegend3D|89|19:15.477
+5|kie2k8|93|23:30.766
+6|[QK] v_HaroS.|169|26:50.321
+7|JoS.lyde|173|23:54.668
+@ 134 | Crossroads | 1 | 2 | 11
+1|Danimalls|14|15:23.082
+2|[yaoi] InfernoTrials|27|08:03.549
+3|Real_Seven|27|24:48.942
+4|Colberton_|40|11:27.449
+5|NoviceQk|66|18:26.705
+6|GlobeTF|81|21:16.715
+7|[Hero] meear|83|18:43.814
+8|Ultra.DeepField|109|21:44.253
+9|[QK] LivingLegend3D|116|24:40.625
+10|PennyJX|123|21:54.970
+@ 135 | Crossroads | 2 | 2 | 11
+11|MayaQK|158|24:36.766
+@ 136 | Throttle Inferiority | 1 | 1 | 10
+1|[yaoi] ModRev2020|20|05:50.879
+2|[QK] LivingLegend3D|49|21:22.569
+3|[QK] DarkMoonV_|74|16:49.588
+4|Sly_GT4|90|16:56.536
+5|Danimalls|104|23:51.816
+6|ZarZrak|108|19:22.844
+7|Sly_Preda|113|24:07.733
+8|kie2k8|153|24:41.560
+9|AZB_Meister|162|29:08.438
+10|ApeBoks|169|24:30.822
+@ 137 | Zen : Back Wheel Only | 1 | 1 | 6
+1|Sly_GT4|19|07:51.416
+2|[yaoi] ModRev2020|96|16:27.402
+3|[QK] LivingLegend3D|98|20:24.555
+4|Danimalls|137|20:24.260
+5|[QK] DarkMoonV_|155|22:29.207
+6|Sly_Preda|161|26:42.790
+@ 138 | SP- Exodus | 1 | 2 | 15
+1|Sly_Preda|57|13:01.369
+2|[QK] LivingLegend3D|58|14:16.951
+3|MayaQK|74|12:19.809
+4|Skilbobaggins|89|16:14.351
+5|JoS.lyde|102|17:21.062
+6|DonRaphinos|112|17:46.924
+7|Real_Seven|130|19:34.807
+8|Kaos_Unreal|145|22:53.212
+9|del230330031001|154|25:51.884
+10|Danimalls|159|28:45.915
+@ 139 | SP- Exodus | 2 | 2 | 15
+11|[QK] DarkMoonV_|166|29:03.231
+12|Jukes408|170|28:07.603
+13|[Pepe] Kaketsuslam|175|24:36.926
+14|[Pepe] MrTrane_|195|27:05.376
+15|kie2k8|281|29:44.105
+@ 140 | Malicious | 1 | 5 | 43
+1|Sly_Preda|1|04:23.350
+2|[QK] DarkMoonV_|3|04:35.962
+3|[QK] LivingLegend3D|4|04:58.432
+4|Sly_GT4|9|05:24.602
+5|Danimalls|26|08:52.783
+6|[QK] MercuryQK|39|09:35.652
+7|Clashh...|43|11:38.757
+8|Skilbobaggins|45|15:03.587
+9|RM_Feniks|47|13:50.416
+10|ZarZrak|64|20:29.710
+@ 141 | Malicious | 2 | 5 | 43
+11|MayaQK|67|10:51.557
+12|fafounac|71|14:59.654
+13|Kaos_Unreal|73|15:06.191
+14|SillyBakaSlawa|78|20:04.695
+15|JakeQK|79|19:48.042
+16|GlobeTF|87|16:59.309
+17|DonRaphinos|90|16:40.636
+18|[QK] RandallQK|94|17:04.730
+19|AZB_Meister|94|20:49.766
+20|C0in-C0in.|95|17:48.439
+@ 142 | Malicious | 3 | 5 | 43
+21|[PCM] NoxMentis|100|18:35.875
+22|[QK] sliikk|101|21:05.248
+23|NoviceQk|104|19:40.943
+24|HaloMonkey3009|106|18:04.342
+25|[345Y] aterichi|112|24:54.725
+26|OchrDywyllFawr|118|23:47.498
+27|kie2k8|119|22:51.297
+28|Doughnut_3000|121|21:11.387
+29|[Pepe] Kaketsuslam|121|27:59.888
+30|[CHUD] E-kitten-abuser|130|20:05.407
+@ 143 | Malicious | 4 | 5 | 43
+31|DarkSword_AP|130|27:51.915
+32|NinjaFlows69|132|20:57.939
+33|JoS.lyde|132|22:36.186
+34|Jukes408|137|25:33.420
+35|GTY-.|141|23:48.653
+36|Xibaqua|143|20:55.665
+37|[QK] D4rk_Ninja|147|22:52.716
+38|Real_Seven|157|25:08.761
+39|Qkoosy|161|27:18.892
+40|[Hero] meear|167|26:04.059
+@ 144 | Malicious | 5 | 5 | 43
+41|[Wesh] JuAnEss.|181|29:16.439
+42|[Mori] gx1.|202|29:13.595
+43|[Wesh] Ney._.|222|28:28.370
+@ 145 | Dark Sabotage | 1 | 3 | 30
+1|Sly_GT4|13|08:26.363
+2|Sly_Preda|23|10:01.677
+3|[yaoi] ModRev2020|29|10:44.012
+4|[QK] LivingLegend3D|31|14:46.249
+5|NinjaFlows69|32|13:39.636
+6|[Hero] meear|45|15:06.209
+7|Clashh...|49|14:25.735
+8|MayaQK|51|10:56.204
+9|Skilbobaggins|55|18:58.926
+10|[QK] MercuryQK|61|16:14.896
+@ 146 | Dark Sabotage | 2 | 3 | 30
+11|Danimalls|65|17:50.721
+12|[Pepe] Kaketsuslam|67|21:39.820
+13|Jukes408|75|18:04.734
+14|[QK] DarkMoonV_|89|24:10.968
+15|JakeQK|91|22:38.887
+16|[QK] RandallQK|101|26:12.546
+17|DonRaphinos|102|23:10.184
+18|fafounac|109|24:19.654
+19|DarkSword_AP|110|25:16.912
+20|Colberton_|117|29:13.685
+@ 147 | Dark Sabotage | 3 | 3 | 30
+21|[Pepe] MrTrane_|120|25:51.344
+22|ZarZrak|121|25:07.815
+23|Real_Seven|121|26:40.212
+24|AZB_Meister|128|24:59.261
+25|[QK] massivecrow77|128|27:59.225
+26|[Pepe] Sethie.|131|27:35.135
+27|[Wesh] JuAnEss.|141|28:59.146
+28|SillyBakaSlawa|142|29:12.670
+29|kie2k8|159|28:17.920
+30|[QK] D4rk_Ninja|178|29:17.966
+@ 148 | Hellcension | 1 | 1 | 4
+1|Danimalls|9|14:42.363
+2|[yaoi] ModRev2020|19|14:54.330
+3|[QK] LivingLegend3D|37|22:05.280
+4|[QK] RandallQK|193|24:29.297
+@ 149 | Monstrum 1.5 | 1 | 1 | 2
+1|[QK] LivingLegend3D|64|18:54.290
+2|Danimalls|121|28:01.660
+@ 150 | Monstrum | 1 | 1 | 5
+1|[QK] LivingLegend3D|107|22:58.589
+2|[QK] RandallQK|122|19:59.589
+3|kie2k8|163|23:05.285
+4|Danimalls|165|21:58.861
+5|Ultra.DeepField|230|27:03.037
+@ 151 | Ebolg | 1 | 1 | 6
+1|GlobeTF|56|09:24.689
+2|[yaoi] ModRev2020|86|16:54.123
+3|[QK] v_HaroS.|122|15:50.734
+4|[C] Scottah-|170|18:31.210
+5|Danimalls|172|23:45.475
+6|[QK] RandallQK|215|29:59.049
+@ 152 | (SX) SlideGod (NJ) | 1 | 1 | 8
+1|[Evil] IBlubbiI|68|08:08.061
+2|[QK] RandallQK|255|20:28.558
+3|Danimalls|264|21:32.975
+4|Doughnut_3000|270|20:20.076
+5|[yaoi] TCCLAPZILLA|275|22:02.067
+6|[345Y] aterichi|324|23:43.227
+7|Clashh...|424|29:39.227
+8|ThoomWard|459|28:42.767
+@ 153 | Reptilia | 1 | 1 | 9
+1|Sly_GT4|14|07:19.003
+2|[QK] RandallQK|56|14:53.592
+3|Clashh...|71|16:52.639
+4|Sly_Preda|95|21:38.322
+5|[QK] MercuryQK|104|16:59.534
+6|ZarZrak|107|20:09.047
+7|[QK] LivingLegend3D|142|28:49.912
+8|Danimalls|179|27:11.514
+9|Real_Seven|201|29:34.905
+@ 154 | Plopandary | 1 | 4 | 32
+1|Danimalls|18|06:49.432
+2|Sly_GT4|18|07:18.031
+3|Clashh...|35|08:45.222
+4|[yaoi] ModRev2020|36|08:28.775
+5|Sly_Preda|66|14:06.029
+6|[QK] GraciousXl|73|12:36.698
+7|[QK] RandallQK|76|17:41.779
+8|kie2k8|79|16:08.504
+9|ZarZrak|80|18:47.288
+10|Jukes408|84|14:44.430
+@ 155 | Plopandary | 2 | 4 | 32
+11|[Pepe] Kaketsuslam|95|14:07.205
+12|[QK] v_HaroS.|96|16:33.354
+13|GlobeTF|96|19:54.745
+14|JoS.lyde|108|19:03.166
+15|[CHUD] E-kitten-abuser|132|18:48.503
+16|Kaos_Unreal|133|22:04.916
+17|SunRiiZe|133|24:52.627
+18|[Hero] meear|134|22:05.454
+19|[Pepe] MrTrane_|134|24:56.394
+20|W0VA|138|27:46.725
+@ 156 | Plopandary | 3 | 4 | 32
+21|Marple.|141|25:16.259
+22|[QK] LivingLegend3D|142|28:06.374
+23|[QK] D4rk_Ninja|149|23:22.110
+24|Colberton_|151|27:16.366
+25|Real_Seven|154|22:10.781
+26|[Pepe] Sethie.|155|28:36.813
+27|[PCM] NoxMentis|159|24:25.841
+28|MayaQK|168|22:29.353
+29|AZB_Meister|171|29:21.347
+30|C0in-C0in.|174|28:13.390
+@ 157 | Plopandary | 4 | 4 | 32
+31|DonRaphinos|219|26:11.267
+32|fafounac|229|27:56.366
+@ 158 | Mutant | 1 | 1 | 8
+1|Sly_GT4|19|06:21.697
+2|[QK] RandallQK|23|07:37.987
+3|PennyJX|46|11:12.740
+4|Sly_Preda|62|13:01.133
+5|kie2k8|89|17:00.655
+6|Danimalls|93|14:06.863
+7|RM_Feniks|134|26:35.036
+8|Clashh...|149|22:31.828
+@ 159 | Hemorrhage | 1 | 2 | 16
+1|Sly_GT4|6|04:50.252
+2|Danimalls|14|05:35.918
+3|Sly_Preda|38|08:19.092
+4|[yaoi] ModRev2020|38|09:34.904
+5|NoviceQk|39|08:14.045
+6|Clashh...|48|13:42.359
+7|[Pepe] doubi014|77|17:03.077
+8|[QK] RandallQK|83|18:38.196
+9|[QK] LivingLegend3D|97|17:47.422
+10|NinjaFlows69|107|19:50.436
+@ 160 | Hemorrhage | 2 | 2 | 16
+11|DonRaphinos|132|18:20.717
+12|JoS.lyde|139|21:15.268
+13|DarkSword_AP|152|24:24.717
+14|JakeQK|172|26:40.121
+15|kie2k8|176|23:49.798
+16|Real_Seven|199|29:01.067
+@ 161 | Within | 1 | 5 | 43
+1|[yaoi] ModRev2020|0|03:42.879
+2|Sly_GT4|0|04:57.535
+3|[yaoi] InfernoTrials|3|04:48.833
+4|PennyJX|3|07:42.474
+5|[QK] RandallQK|6|05:47.232
+6|NoviceQk|8|08:16.845
+7|Real_Seven|20|12:15.027
+8|Colberton_|27|14:42.705
+9|GlobeTF|29|17:24.856
+10|Sly_Preda|38|10:42.276
+@ 162 | Within | 2 | 5 | 43
+11|Aremata|39|11:59.934
+12|[C] Scottah-|39|15:10.958
+13|[CHUD] E-kitten-abuser|41|16:02.892
+14|MayaQK|43|18:27.767
+15|[QK] MercuryQK|48|15:28.641
+16|C0in-C0in.|48|25:14.531
+17|AnaQK|60|13:28.747
+18|Danimalls|63|20:36.739
+19|[PCM] NoxMentis|68|21:49.277
+20|[QK] LivingLegend3D|71|15:33.757
+@ 163 | Within | 3 | 5 | 43
+21|Doughnut_3000|73|20:58.837
+22|Clashh...|74|17:12.700
+23|[Hero] meear|83|20:22.709
+24|JoS.lyde|103|18:35.990
+25|SunRiiZe|112|18:34.875
+26|JacobQK|115|28:00.605
+27|Skilbobaggins|117|21:13.041
+28|del230330031001|130|22:08.505
+29|Ultra.DeepField|134|23:47.055
+30|ZarZrak|135|26:46.353
+@ 164 | Within | 4 | 5 | 43
+31|[Hero] H_ak_u|137|27:59.263
+32|xScoped.|146|22:53.945
+33|Lorcan727|147|28:13.662
+34|[Pepe] Sethie.|152|23:45.913
+35|JakeQK|160|27:34.042
+36|[Pepe] Kaketsuslam|160|28:57.047
+37|[QK] massivecrow77|162|26:58.279
+38|[Wesh] Ney._.|169|25:23.684
+39|Jukes408|174|29:01.184
+40|AZB_Meister|176|27:49.493
+@ 165 | Within | 5 | 5 | 43
+41|[Pepe] MrTrane_|185|26:45.934
+42|[Wesh] Vaylon.|188|26:39.163
+43|[Wesh] JuAnEss.|203|27:18.807
+@ 166 | Kaua'i | 1 | 4 | 31
+1|[yaoi] ModRev2020|26|10:04.780
+2|Clashh...|51|15:20.051
+3|Sly_GT4|55|15:58.589
+4|[Pepe] MrTrane_|65|15:03.008
+5|Real_Seven|83|19:46.319
+6|MayaQK|84|20:14.897
+7|Jukes408|90|16:28.264
+8|[QK] LivingLegend3D|93|17:47.655
+9|Bola_369|106|19:57.517
+10|[Hero] meear|106|20:23.157
+@ 167 | Kaua'i | 2 | 4 | 31
+11|Danimalls|107|21:04.904
+12|GlobeTF|112|22:09.597
+13|[QK] D4rk_Ninja|112|24:29.609
+14|[QK] RandallQK|114|23:21.941
+15|Ultra.DeepField|115|25:35.214
+16|Sly_Preda|117|19:22.994
+17|[CHUD] E-kitten-abuser|128|29:47.460
+18|Xibaqua|129|28:35.789
+19|ZarZrak|130|25:37.964
+20|SunRiiZe|132|22:03.105
+@ 168 | Kaua'i | 3 | 4 | 31
+21|[Pepe] Kaketsuslam|132|22:03.223
+22|Aremata|135|26:46.271
+23|Marple.|142|28:05.823
+24|[Pepe] Sethie.|150|25:06.936
+25|[yaoi] InfernoTrials|150|26:53.427
+26|AZB_Meister|153|27:00.841
+27|[QK] GraciousXl|154|26:07.763
+28|C0in-C0in.|169|25:34.081
+29|DonRaphinos|188|25:50.980
+30|Kaos_Unreal|203|29:34.094
+@ 169 | Kaua'i | 4 | 4 | 31
+31|kie2k8|234|29:23.760
+@ 170 | Ladnar | 1 | 1 | 7
+1|Sly_GT4|44|09:32.423
+2|[yaoi] ModRev2020|60|18:20.068
+3|PennyJX|120|14:32.217
+4|[QK] v_HaroS.|126|20:30.577
+5|Clashh...|146|21:08.640
+6|Danimalls|173|17:24.735
+7|ZarZrak|240|24:42.115
+@ 171 | The Kilian's Journey | 1 | 1 | 8
+1|Sly_GT4|51|11:11.149
+2|Danimalls|53|16:18.489
+3|[QK] RandallQK|78|10:31.519
+4|NoviceQk|154|24:50.814
+5|GlobeTF|186|21:35.134
+6|DonRaphinos|214|29:59.048
+7|Real_Seven|237|29:59.584
+8|kie2k8|267|27:36.174
+@ 172 | Dead Root | 1 | 1 | 9
+1|Sly_GT4|43|14:23.112
+2|[QK] RandallQK|55|13:57.775
+3|[QK] v_HaroS.|75|17:37.482
+4|Qkoosy|85|23:27.334
+5|JoS.lyde|97|19:57.455
+6|[yaoi] ModRev2020|110|18:26.122
+7|Danimalls|113|23:23.983
+8|Real_Seven|132|28:44.440
+9|GlobeTF|140|29:04.039
+@ 173 | Annihilation | 1 | 5 | 42
+1|HaloMonkey3009|0|00:47.433
+2|Clashh...|0|00:48.949
+3|Sly_GT4|4|06:17.061
+4|[yaoi] ModRev2020|20|08:33.286
+5|[QK] LivingLegend3D|21|11:51.553
+6|Sly_Preda|33|10:43.803
+7|OchrDywyllFawr|37|11:48.098
+8|Danimalls|38|11:20.555
+9|Skilbobaggins|43|11:19.106
+10|kie2k8|45|12:32.712
+@ 174 | Annihilation | 2 | 5 | 42
+11|[QK] MercuryQK|49|12:15.012
+12|GTY-.|67|17:53.891
+13|PennyJX|69|18:20.116
+14|MayaQK|70|15:49.950
+15|JoS.lyde|71|18:42.202
+16|Real_Seven|75|16:53.516
+17|[Pepe] Kaketsuslam|76|21:22.749
+18|SunRiiZe|79|19:58.665
+19|[QK] massivecrow77|85|18:41.698
+20|[Wesh] JuAnEss.|88|20:53.624
+@ 175 | Annihilation | 3 | 5 | 42
+21|ZarZrak|90|20:35.906
+22|[Pepe] Sethie.|93|21:33.704
+23|GlobeTF|94|22:06.306
+24|C0in-C0in.|96|16:44.052
+25|[QK] RandallQK|98|24:48.016
+26|RM_Feniks|112|26:52.587
+27|AZB_Meister|114|23:42.483
+28|SillyBakaSlawa|124|23:20.075
+29|Aremata|126|22:46.996
+30|Kaos_Unreal|127|19:21.853
+@ 176 | Annihilation | 4 | 5 | 42
+31|[345Y] aterichi|127|24:35.108
+32|[Hero] meear|127|26:37.869
+33|[QK] D4rk_Ninja|131|25:01.258
+34|Jukes408|134|29:23.183
+35|NinjaFlows69|139|24:51.513
+36|DarkSword_AP|143|28:26.731
+37|fafounac|143|29:13.960
+38|[Wesh] Ney._.|146|26:30.825
+39|[CHUD] E-kitten-abuser|166|23:37.113
+40|Marple.|181|26:49.150
+@ 177 | Annihilation | 5 | 5 | 42
+41|[PCM] NoxMentis|203|29:43.841
+42|[Pepe] MrTrane_|210|28:42.626
+@ 178 | Yagmi | 1 | 2 | 14
+1|Sly_GT4|12|04:30.098
+2|Danimalls|22|04:35.450
+3|[QK] RandallQK|31|07:53.242
+4|[yaoi] ModRev2020|37|07:59.845
+5|Skilbobaggins|131|18:20.147
+6|[QK] LivingLegend3D|145|21:41.993
+7|Real_Seven|151|16:02.687
+8|Clashh...|181|26:48.518
+9|[Pepe] MrTrane_|192|19:16.016
+10|kie2k8|197|21:56.476
+@ 179 | Yagmi | 2 | 2 | 14
+11|MayaQK|225|25:53.194
+12|[Pepe] Kaketsuslam|250|28:19.043
+13|Jukes408|261|27:19.808
+14|DarkSword_AP|266|24:53.030
+@ 180 | Alcazar | 1 | 2 | 18
+1|Sly_GT4|18|05:18.872
+2|Skilbobaggins|54|10:39.261
+3|[QK] RandallQK|112|13:08.962
+4|NoviceQk|115|14:12.465
+5|PennyJX|124|17:47.522
+6|Danimalls|135|17:34.729
+7|Sly_Preda|158|18:23.170
+8|Real_Seven|166|21:03.834
+9|Clashh...|169|18:28.336
+10|[yaoi] ModRev2020|172|20:34.027
+@ 181 | Alcazar | 2 | 2 | 18
+11|[QK] MercuryQK|176|19:20.160
+12|JakeQK|180|19:05.116
+13|JoS.lyde|201|22:58.633
+14|Qkoosy|215|26:40.196
+15|kie2k8|243|21:21.400
+16|ZarZrak|253|26:20.016
+17|[QK] LivingLegend3D|256|28:44.093
+18|MayaQK|316|28:33.072
+@ 182 | SP- Orion | 1 | 2 | 20
+1|Sly_GT4|6|05:28.759
+2|Sly_Preda|13|07:14.170
+3|Skilbobaggins|33|08:45.966
+4|Real_Seven|55|12:14.792
+5|[yaoi] ModRev2020|59|12:41.255
+6|ZarZrak|68|13:44.598
+7|Danimalls|73|16:30.928
+8|[QK] RandallQK|79|16:34.044
+9|OchrDywyllFawr|97|19:20.081
+10|AZB_Meister|121|19:42.294
+@ 183 | SP- Orion | 2 | 2 | 20
+11|[QK] LivingLegend3D|123|19:22.097
+12|Aremata|129|22:12.115
+13|PennyJX|130|21:13.482
+14|RM_Feniks|132|27:18.722
+15|DarkSword_AP|141|24:54.276
+16|JoS.lyde|151|24:07.229
+17|MayaQK|156|20:26.112
+18|kie2k8|162|22:08.511
+19|JakeQK|168|28:15.235
+20|DonRaphinos|226|25:13.173
+@ 184 | Nacrol | 1 | 2 | 20
+1|Sly_GT4|11|04:03.862
+2|[yaoi] ModRev2020|11|04:54.274
+3|[QK] RandallQK|21|06:13.528
+4|Sly_Preda|43|08:20.139
+5|OchrDywyllFawr|78|12:10.353
+6|Danimalls|117|13:58.575
+7|kie2k8|129|15:05.016
+8|RM_Feniks|138|15:20.404
+9|[Pepe] MrTrane_|145|18:14.040
+10|[QK] v_HaroS.|180|17:19.244
+@ 185 | Nacrol | 2 | 2 | 20
+11|[QK] LivingLegend3D|184|22:00.411
+12|ZarZrak|199|19:31.419
+13|Qkoosy|203|23:10.850
+14|[Pepe] Kaketsuslam|208|25:08.313
+15|MayaQK|211|17:32.581
+16|Xibaqua|220|21:51.105
+17|NinjaFlows69|234|22:52.607
+18|DonRaphinos|251|26:36.322
+19|Clashh...|268|28:25.193
+20|DarkSword_AP|354|28:52.505
+@ 186 | Grievous | 1 | 3 | 30
+1|MayaQK|9|04:28.082
+2|PennyJX|29|07:35.597
+3|[QK] RandallQK|39|08:58.351
+4|Sly_Preda|47|09:13.041
+5|Sly_GT4|70|10:41.641
+6|OchrDywyllFawr|73|11:52.511
+7|NoviceQk|79|13:25.740
+8|DarkSword_AP|86|12:08.791
+9|Clashh...|98|14:16.305
+10|[QK] MercuryQK|106|18:49.428
+@ 187 | Grievous | 2 | 3 | 30
+11|Real_Seven|113|14:34.450
+12|[QK] LivingLegend3D|119|19:49.836
+13|[CHUD] E-kitten-abuser|125|18:00.700
+14|Danimalls|126|18:05.287
+15|Skilbobaggins|128|18:44.489
+16|fafounac|145|19:45.957
+17|[Pepe] Sethie.|154|16:27.697
+18|[QK] v_HaroS.|166|20:42.630
+19|[Hero] meear|175|18:29.995
+20|[Pepe] Kaketsuslam|188|26:00.180
+@ 188 | Grievous | 3 | 3 | 30
+21|[QK] massivecrow77|197|24:26.540
+22|[QK] sliikk|198|20:41.666
+23|ZarZrak|202|22:57.290
+24|Qkoosy|208|28:13.710
+25|GlobeTF|209|24:13.090
+26|Jukes408|213|28:39.169
+27|JakeQK|234|26:49.002
+28|W0VA|239|25:30.504
+29|[QK] D4rk_Ninja|241|26:02.473
+30|kie2k8|242|24:58.616
+@ 189 | SP- Genesis | 1 | 1 | 10
+1|GlobeTF|75|14:46.329
+2|Danimalls|77|13:13.542
+3|RM_Feniks|120|15:52.728
+4|[QK] RandallQK|125|17:12.889
+5|Real_Seven|139|18:35.973
+6|OchrDywyllFawr|149|17:12.212
+7|Clashh...|158|23:24.579
+8|ZarZrak|171|29:00.501
+9|kie2k8|204|27:29.075
+10|NoviceQk|220|28:28.294
+@ 190 | Luscious | 1 | 7 | 61
+1|MayaQK|0|02:47.356
+2|[yaoi] ModRev2020|0|02:57.395
+3|[yaoi] InfernoTrials|0|03:31.994
+4|[QK] RandallQK|0|03:51.037
+5|Sly_GT4|6|03:58.011
+6|NoviceQk|6|05:05.898
+7|Sly_Preda|8|04:29.732
+8|[CHUD] E-kitten-abuser|8|04:40.572
+9|[QK] MercuryQK|9|06:12.221
+10|[QK] LivingLegend3D|15|06:39.520
+@ 191 | Luscious | 2 | 7 | 61
+11|Danimalls|18|07:44.145
+12|[QK] DarkMoonV_|24|07:13.077
+13|Skilbobaggins|27|08:19.330
+14|SillyBakaSlawa|29|09:48.361
+15|[C] Scottah-|31|09:02.708
+16|Kaos_Unreal|31|09:38.950
+17|[Pepe] Kaketsuslam|33|09:59.538
+18|Clashh...|38|10:05.167
+19|PennyJX|42|08:09.464
+20|kie2k8|47|09:48.355
+@ 192 | Luscious | 3 | 7 | 61
+21|ZarZrak|53|14:33.860
+22|RM_Feniks|67|13:13.245
+23|GTY-.|68|13:46.142
+24|[QK] massivecrow77|69|11:19.962
+25|JakeQK|70|15:19.454
+26|Qkoosy|73|17:57.539
+27|[Pepe] Sethie.|75|14:52.390
+28|AZB_Meister|83|13:06.717
+29|[QK] D4rk_Ninja|86|14:29.502
+30|[Pepe] MrTrane_|90|13:54.191
+@ 193 | Luscious | 4 | 7 | 61
+31|Real_Seven|90|15:01.989
+32|Marple.|97|15:35.690
+33|Xibaqua|102|15:05.990
+34|Bola_369|103|14:52.281
+35|AnaQK|104|17:23.844
+36|GlobeTF|108|17:23.867
+37|Jukes408|115|20:31.963
+38|OchrDywyllFawr|126|19:24.939
+39|[Hero] meear|127|24:24.312
+40|JoS.lyde|130|21:29.313
+@ 194 | Luscious | 5 | 7 | 61
+41|Vanillegipferl|138|21:09.908
+42|C0in-C0in.|139|20:37.701
+43|[Pepe] doubi014|142|27:49.243
+44|xNaastar|144|20:42.746
+45|[Wesh] JuAnEss.|144|26:35.118
+46|fafounac|160|21:58.826
+47|[Mori] gx1.|160|23:39.921
+48|OwenLu|163|24:43.829
+49|[345Y] aterichi|167|29:05.688
+50|ApeBoks|168|28:00.382
+@ 195 | Luscious | 6 | 7 | 61
+51|Aremata|169|22:36.816
+52|NinjaFlows69|177|24:45.644
+53|JacobQK|183|27:42.427
+54|geshimin|187|25:15.811
+55|Doughnut_3000|190|26:45.398
+56|[Wesh] Ney._.|194|25:24.065
+57|[PCM] NoxMentis|209|29:14.356
+58|[QK] sliikk|223|27:38.484
+59|ThoomWard|234|28:35.452
+60|DonRaphinos|236|29:55.015
+@ 196 | Luscious | 7 | 7 | 61
+61|SunRiiZe|266|28:39.230

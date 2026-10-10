@@ -1,0 +1,735 @@
+# @ idx | track | page | pages | total riders
+# rank | name | faults | time
+@ 0 | Vicious | 1 | 3 | 30
+1|Sly_GT4|0|03:21.513
+2|[yaoi] ModRev2020|2|04:38.301
+3|[yaoi] InfernoTrials|4|05:53.306
+4|Sly_Preda|18|08:14.243
+5|Clashh...|30|10:31.710
+6|Skilbobaggins|43|14:12.346
+7|[QK] MercuryQK|53|14:52.683
+8|PennyJX|54|11:00.862
+9|OchrDywyllFawr|64|13:53.678
+10|[Pepe] Sethie.|70|14:17.317
+@ 1 | Vicious | 2 | 3 | 30
+11|AZB_Meister|73|16:11.016
+12|JoS.lyde|80|16:18.728
+13|JakeQK|84|18:43.994
+14|[QK] LivingLegend3D|90|20:13.323
+15|ZarZrak|93|19:45.613
+16|SunRiiZe|94|19:55.732
+17|[Hero] meear|96|20:34.402
+18|[QK] RandallQK|98|24:28.141
+19|Danimalls|98|24:29.602
+20|[Pepe] Kaketsuslam|109|24:51.894
+@ 2 | Vicious | 3 | 3 | 30
+21|[CHUD] E-kitten-abuser|122|22:49.707
+22|[QK] massivecrow77|124|20:29.589
+23|Real_Seven|140|25:14.405
+24|MayaQK|142|24:03.341
+25|DonRaphinos|144|25:03.558
+26|DarkSword_AP|146|24:41.319
+27|[Pepe] MrTrane_|151|22:34.955
+28|NinjaFlows69|151|27:07.391
+29|RM_Feniks|167|26:19.215
+30|kie2k8|190|28:25.081
+@ 3 | Infinity | 1 | 3 | 27
+1|MayaQK|14|14:26.876
+2|Sly_Preda|23|17:05.274
+3|PennyJX|31|20:36.836
+4|[yaoi] InfernoTrials|32|23:37.432
+5|Sly_GT4|33|12:00.650
+6|SunRiiZe|35|19:12.055
+7|[QK] DarkMoonV_|37|22:33.465
+8|[QK] massivecrow77|41|21:11.139
+9|[Hero] meear|42|20:06.025
+10|[QK] MercuryQK|43|22:03.994
+@ 4 | Infinity | 2 | 3 | 27
+11|JoS.lyde|43|23:36.486
+12|Skilbobaggins|45|20:22.085
+13|[C] Scottah-|47|21:34.501
+14|AZB_Meister|47|22:28.506
+15|[Wesh] JuAnEss.|48|29:47.788
+16|[Pepe] Sethie.|51|25:18.555
+17|[QK] RandallQK|52|27:29.608
+18|Danimalls|53|28:23.896
+19|[QK] LivingLegend3D|55|26:43.497
+20|Clashh...|56|25:46.556
+@ 5 | Infinity | 3 | 3 | 27
+21|ZarZrak|58|22:04.389
+22|JakeQK|61|28:59.567
+23|OchrDywyllFawr|61|29:47.469
+24|DonRaphinos|66|22:15.356
+25|[CHUD] E-kitten-abuser|71|23:06.310
+26|kie2k8|72|24:24.310
+27|[QK] sliikk|74|28:15.073
+@ 6 | Galneryus X | 1 | 3 | 24
+1|Skilbobaggins|5|06:58.948
+2|[yaoi] ModRev2020|6|05:44.146
+3|Sly_Preda|25|13:28.593
+4|ZarZrak|26|11:47.915
+5|Real_Seven|32|14:24.823
+6|[QK] LivingLegend3D|33|17:08.485
+7|kie2k8|49|13:13.599
+8|PennyJX|52|18:44.633
+9|[CHUD] E-kitten-abuser|54|17:16.610
+10|[Pepe] Kaketsuslam|55|14:36.455
+@ 7 | Galneryus X | 2 | 3 | 24
+11|[QK] RandallQK|80|22:21.881
+12|OchrDywyllFawr|88|24:37.398
+13|JakeQK|90|22:39.216
+14|AZB_Meister|91|23:12.683
+15|[yaoi] InfernoTrials|92|26:20.003
+16|[QK] DarkMoonV_|93|20:20.335
+17|[QK] MercuryQK|99|20:29.635
+18|[Pepe] MrTrane_|103|24:56.753
+19|SunRiiZe|111|24:10.669
+20|[QK] v_HaroS.|114|22:32.280
+@ 8 | Galneryus X | 3 | 3 | 24
+21|[Pepe] Sethie.|131|29:22.004
+22|Danimalls|136|28:25.158
+23|[QK] massivecrow77|156|29:02.558
+24|MayaQK|161|28:11.717
+@ 9 | Flabbergasted | 1 | 3 | 23
+1|Sly_GT4|7|06:30.141
+2|OchrDywyllFawr|26|12:29.837
+3|[yaoi] InfernoTrials|28|09:13.922
+4|[QK] v_HaroS.|31|09:49.072
+5|Danimalls|35|17:00.731
+6|[Pepe] Sethie.|35|18:04.185
+7|[QK] DarkMoonV_|38|15:44.224
+8|[QK] RandallQK|45|17:51.259
+9|ZarZrak|52|19:51.002
+10|PennyJX|57|14:22.864
+@ 10 | Flabbergasted | 2 | 3 | 23
+11|[C] Scottah-|64|21:27.764
+12|Sly_Preda|70|17:28.715
+13|JakeQK|72|20:22.113
+14|AZB_Meister|73|22:36.424
+15|[QK] massivecrow77|84|22:58.137
+16|Clashh...|84|27:54.945
+17|kie2k8|86|20:42.813
+18|JoS.lyde|87|26:19.185
+19|[CHUD] E-kitten-abuser|89|21:20.291
+20|[QK] MercuryQK|91|27:56.653
+@ 11 | Flabbergasted | 3 | 3 | 23
+21|Skilbobaggins|101|22:50.797
+22|[QK] LivingLegend3D|112|29:24.972
+23|MayaQK|116|22:15.921
+@ 12 | Devoted X [fix] | 1 | 2 | 19
+1|Sly_GT4|19|14:58.781
+2|[C] Scottah-|61|24:09.996
+3|[QK] LivingLegend3D|62|21:15.993
+4|Danimalls|68|21:43.581
+5|ZarZrak|72|22:07.775
+6|Clashh...|73|23:58.543
+7|[yaoi] InfernoTrials|83|20:59.708
+8|[yaoi] ModRev2020|92|23:09.009
+9|PennyJX|97|20:44.500
+10|[QK] MercuryQK|101|27:07.560
+@ 13 | Devoted X [fix] | 2 | 2 | 19
+11|MayaQK|103|24:48.555
+12|[CHUD] E-kitten-abuser|103|26:45.538
+13|Sly_Preda|104|26:30.361
+14|Sparrkz.|109|26:39.478
+15|[Pepe] Sethie.|110|26:38.401
+16|JakeQK|112|28:26.627
+17|AZB_Meister|113|25:03.808
+18|DonRaphinos|136|29:23.971
+19|[QK] massivecrow77|156|29:28.889
+@ 14 | Murderous | 1 | 2 | 11
+1|Sly_GT4|56|11:13.280
+2|[yaoi] InfernoTrials|76|13:09.369
+3|[yaoi] ModRev2020|107|17:39.316
+4|Danimalls|154|21:04.326
+5|OchrDywyllFawr|166|21:38.535
+6|[QK] LivingLegend3D|180|26:41.363
+7|[QK] RandallQK|213|28:23.818
+8|MayaQK|224|28:41.447
+9|[C] Scottah-|234|21:55.216
+10|Sly_Preda|260|27:32.970
+@ 15 | Murderous | 2 | 2 | 11
+11|[QK] MercuryQK|261|29:49.836
+@ 16 | King Pin 3 | 1 | 2 | 18
+1|Sly_Preda|0|07:04.535
+2|Sly_GT4|13|08:30.069
+3|[QK] LivingLegend3D|14|12:24.838
+4|NoviceQk|21|12:09.436
+5|MayaQK|27|11:38.258
+6|Skilbobaggins|30|15:17.341
+7|[QK] RandallQK|33|17:40.070
+8|[QK] DarkMoonV_|38|20:07.657
+9|SunRiiZe|41|19:14.986
+10|[CHUD] E-kitten-abuser|46|16:43.801
+@ 17 | King Pin 3 | 2 | 2 | 18
+11|[C] Scottah-|48|17:40.794
+12|kie2k8|48|21:32.464
+13|Danimalls|49|16:56.435
+14|AZB_Meister|66|23:57.573
+15|JakeQK|75|23:08.173
+16|PennyJX|77|22:19.304
+17|[QK] MercuryQK|82|24:51.771
+18|[QK] massivecrow77|83|23:55.715
+@ 18 | Krueger | 1 | 1 | 8
+1|[yaoi] ModRev2020|20|08:18.012
+2|[yaoi] InfernoTrials|56|16:22.077
+3|MayaQK|98|17:12.294
+4|Sly_Preda|142|27:05.532
+5|[QK] RandallQK|156|27:07.573
+6|Sly_GT4|167|25:45.161
+7|[C] Scottah-|171|27:23.545
+8|[QK] MercuryQK|183|26:36.705
+@ 19 | Obsession | 1 | 2 | 11
+1|Sly_GT4|60|11:30.450
+2|[yaoi] ModRev2020|67|12:52.127
+3|[C] Scottah-|122|17:24.315
+4|[QK] RandallQK|129|26:02.168
+5|Sly_Preda|132|17:54.465
+6|[QK] LivingLegend3D|156|21:18.225
+7|Danimalls|175|24:27.971
+8|NoviceQk|178|19:53.630
+9|[yaoi] InfernoTrials|223|25:54.221
+10|MayaQK|223|27:01.731
+@ 20 | Obsession | 2 | 2 | 11
+11|[QK] MercuryQK|253|28:21.447
+@ 21 | ... :) | 1 | 1 | 9
+1|[yaoi] ModRev2020|51|12:12.314
+2|Danimalls|78|12:53.981
+3|[QK] LivingLegend3D|130|23:34.314
+4|[QK] RandallQK|146|18:04.522
+5|MayaQK|157|19:03.882
+6|Sly_GT4|207|14:19.255
+7|[C] Scottah-|232|24:56.627
+8|PennyJX|253|29:32.467
+9|Sly_Preda|275|27:28.234
+@ 22 | Farrago 2 | 1 | 1 | 8
+1|[yaoi] ModRev2020|27|10:51.745
+2|Sly_GT4|49|17:13.060
+3|[QK] RandallQK|53|19:49.490
+4|MayaQK|75|23:30.207
+5|Danimalls|89|25:20.681
+6|[C] Scottah-|93|21:37.274
+7|Sly_Preda|114|21:27.432
+8|[QK] LivingLegend3D|127|29:57.389
+@ 23 | Odyssey | 1 | 2 | 18
+1|[yaoi] ModRev2020|0|06:33.092
+2|[yaoi] InfernoTrials|2|07:34.796
+3|JoS.lyde|36|16:56.691
+4|PennyJX|39|21:47.542
+5|Danimalls|48|17:47.629
+6|JakeQK|53|27:17.428
+7|[QK] MercuryQK|54|19:09.691
+8|Colberton_|54|22:27.734
+9|Aremata|56|20:08.432
+10|NoviceQk|64|22:44.337
+@ 24 | Odyssey | 2 | 2 | 18
+11|[QK] RandallQK|70|29:58.062
+12|Sly_Preda|84|26:19.685
+13|[QK] LivingLegend3D|85|27:41.383
+14|Sly_GT4|90|26:20.040
+15|[QK] DarkMoonV_|94|28:26.689
+16|MayaQK|95|27:43.096
+17|GlobeTF|106|28:40.054
+18|Real_Seven|119|28:18.973
+@ 25 | Miraculous | 1 | 1 | 8
+1|Sly_GT4|75|13:34.913
+2|[QK] MercuryQK|84|15:55.462
+3|[QK] RandallQK|97|21:37.596
+4|[QK] LivingLegend3D|99|22:01.657
+5|Danimalls|101|22:17.578
+6|[C] Scottah-|107|22:06.966
+7|[QK] DarkMoonV_|109|19:41.762
+8|Sly_Preda|110|21:10.735
+@ 26 | SP- Aftermath X | 1 | 1 | 6
+1|[QK] RandallQK|37|13:13.107
+2|[C] Scottah-|59|17:19.382
+3|[yaoi] ModRev2020|59|19:13.562
+4|Danimalls|60|17:40.075
+5|MayaQK|80|24:18.358
+6|Sly_Preda|133|24:21.870
+@ 27 | Golem | 1 | 1 | 8
+1|[QK] RandallQK|52|20:05.807
+2|Sly_GT4|53|16:36.636
+3|[C] Scottah-|54|22:49.899
+4|Danimalls|57|20:57.033
+5|JoS.lyde|87|27:06.788
+6|Sly_Preda|90|27:13.333
+7|[QK] LivingLegend3D|100|29:30.004
+8|MayaQK|114|23:50.760
+@ 28 | Erebus | 1 | 1 | 6
+1|[C] Scottah-|24|21:43.247
+2|[QK] LivingLegend3D|39|24:58.972
+3|Danimalls|44|23:07.563
+4|Sly_GT4|60|29:05.298
+5|[QK] RandallQK|70|26:33.714
+6|Sly_Preda|98|27:09.399
+@ 29 | Cliff-hanger | 1 | 1 | 6
+1|Sly_GT4|45|17:24.336
+2|[QK] RandallQK|75|24:45.788
+3|[yaoi] ModRev2020|80|22:43.033
+4|[C] Scottah-|115|26:19.568
+5|Sly_Preda|139|24:55.163
+6|Danimalls|153|29:40.497
+@ 30 | Crown Control | 1 | 2 | 16
+1|Sly_Preda|8|10:00.531
+2|[yaoi] ModRev2020|13|08:28.518
+3|[QK] LivingLegend3D|25|13:06.658
+4|Danimalls|51|18:48.175
+5|NoviceQk|52|16:16.113
+6|[C] Scottah-|59|18:57.266
+7|[QK] RandallQK|61|19:00.923
+8|[QK] MercuryQK|78|20:17.649
+9|Skilbobaggins|85|22:05.647
+10|MayaQK|87|17:16.003
+@ 31 | Crown Control | 2 | 2 | 16
+11|Sly_GT4|90|22:31.132
+12|[QK] DarkMoonV_|91|24:14.067
+13|[yaoi] InfernoTrials|99|23:06.999
+14|JakeQK|103|27:19.454
+15|AZB_Meister|116|29:41.501
+16|OchrDywyllFawr|120|25:08.923
+@ 32 | Infinity & Beyond | 1 | 2 | 19
+1|[yaoi] ModRev2020|2|07:36.147
+2|Sly_GT4|21|13:33.355
+3|PennyJX|33|13:56.896
+4|[C] Scottah-|45|18:57.496
+5|[QK] RandallQK|53|19:27.595
+6|[QK] MercuryQK|58|16:47.106
+7|[yaoi] InfernoTrials|60|19:19.816
+8|JakeQK|64|19:29.617
+9|[CHUD] E-kitten-abuser|68|22:24.603
+10|MayaQK|71|19:45.344
+@ 33 | Infinity & Beyond | 2 | 2 | 19
+11|[QK] DarkMoonV_|80|21:21.755
+12|Danimalls|81|26:06.676
+13|[QK] massivecrow77|86|21:19.720
+14|[QK] LivingLegend3D|97|25:52.065
+15|[QK] v_HaroS.|99|28:29.929
+16|JoS.lyde|105|28:41.818
+17|Sly_Preda|110|23:17.904
+18|OchrDywyllFawr|114|22:08.342
+19|Clashh...|117|23:36.552
+@ 34 | Wraith | 1 | 3 | 23
+1|[yaoi] ModRev2020|16|09:04.902
+2|[C] Scottah-|46|15:09.247
+3|PennyJX|50|14:35.311
+4|[QK] MercuryQK|55|17:07.613
+5|Sly_GT4|68|14:13.556
+6|[QK] RandallQK|70|17:40.033
+7|JakeQK|70|20:18.453
+8|Skilbobaggins|72|21:13.731
+9|[QK] sliikk|84|19:41.125
+10|[yaoi] InfernoTrials|90|19:16.157
+@ 35 | Wraith | 2 | 3 | 23
+11|[Pepe] Sethie.|92|23:44.409
+12|MayaQK|93|20:54.391
+13|Danimalls|103|25:46.843
+14|Sly_Preda|105|24:51.351
+15|OchrDywyllFawr|112|23:06.276
+16|[QK] DarkMoonV_|116|27:12.647
+17|JoS.lyde|117|28:45.771
+18|Clashh...|124|27:19.140
+19|[CHUD] E-kitten-abuser|136|28:04.582
+20|JacobQK|136|28:24.767
+@ 36 | Wraith | 3 | 3 | 23
+21|[QK] v_HaroS.|138|23:23.224
+22|[QK] LivingLegend3D|165|29:50.279
+23|[QK] massivecrow77|178|28:21.766
+@ 37 | Monochrome | 1 | 1 | 9
+1|[QK] RandallQK|57|14:44.204
+2|[QK] MercuryQK|85|19:18.042
+3|Sly_Preda|87|17:48.848
+4|MayaQK|104|17:10.111
+5|PennyJX|127|22:21.114
+6|[C] Scottah-|132|25:43.574
+7|Danimalls|135|25:31.036
+8|[yaoi] InfernoTrials|144|28:29.636
+9|Sly_GT4|185|29:22.166
+@ 38 | Purple Moon | 1 | 1 | 2
+1|[yaoi] ModRev2020|78|17:40.029
+2|NoviceQk|92|21:00.646
+@ 39 | Bloodmoon | 1 | 2 | 11
+1|Sly_GT4|21|06:51.743
+2|NoviceQk|21|10:28.076
+3|Sly_Preda|33|10:09.666
+4|[QK] LivingLegend3D|56|10:40.424
+5|JakeQK|74|16:28.645
+6|[QK] RandallQK|90|19:59.188
+7|[QK] DarkMoonV_|111|24:55.781
+8|[C] Scottah-|123|28:19.529
+9|[QK] MercuryQK|133|25:08.292
+10|AZB_Meister|169|27:32.357
+@ 40 | Bloodmoon | 2 | 2 | 11
+11|Danimalls|171|28:37.423
+@ 41 | King Pin 2 | 1 | 1 | 10
+1|[yaoi] ModRev2020|20|10:03.616
+2|Sly_GT4|29|09:45.666
+3|Sly_Preda|42|14:42.399
+4|[QK] DarkMoonV_|59|16:12.983
+5|[QK] MercuryQK|63|15:08.599
+6|[QK] RandallQK|92|20:55.083
+7|[QK] LivingLegend3D|105|22:20.183
+8|[C] Scottah-|108|23:12.299
+9|AZB_Meister|132|26:21.516
+10|Danimalls|134|29:40.216
+@ 42 | Singularity | 1 | 1 | 8
+1|Sly_GT4|6|15:10.534
+2|Sly_Preda|11|26:52.965
+3|MayaQK|14|20:05.468
+4|[QK] RandallQK|18|26:17.047
+5|[C] Scottah-|21|27:46.129
+6|Danimalls|22|26:00.676
+7|PennyJX|33|29:19.478
+8|[QK] LivingLegend3D|39|29:33.044
+@ 43 | Darko [<3] | 1 | 2 | 12
+1|[QK] RandallQK|90|21:59.155
+2|[yaoi] ModRev2020|90|25:07.295
+3|PennyJX|93|21:45.240
+4|Sly_Preda|110|23:05.457
+5|[QK] LivingLegend3D|116|28:55.404
+6|Danimalls|117|23:48.017
+7|[QK] DarkMoonV_|121|26:26.209
+8|MayaQK|134|28:30.730
+9|[yaoi] InfernoTrials|136|26:09.358
+10|Sly_GT4|149|24:47.862
+@ 44 | Darko [<3] | 2 | 2 | 12
+11|[C] Scottah-|150|26:31.888
+12|[QK] MercuryQK|160|27:38.201
+@ 45 | Victorious * | 1 | 2 | 12
+1|Sly_GT4|59|11:13.714
+2|[QK] RandallQK|76|13:06.593
+3|Danimalls|99|16:51.084
+4|[yaoi] InfernoTrials|100|16:38.985
+5|Sly_Preda|109|15:53.800
+6|PennyJX|118|18:31.849
+7|NoviceQk|156|21:44.266
+8|[QK] LivingLegend3D|158|20:57.552
+9|MayaQK|162|19:51.134
+10|[C] Scottah-|165|20:23.377
+@ 46 | Victorious * | 2 | 2 | 12
+11|[QK] DarkMoonV_|211|25:29.838
+12|[QK] MercuryQK|223|21:56.633
+@ 47 | Nutritious III | 1 | 2 | 11
+1|[yaoi] ModRev2020|51|18:33.622
+2|Danimalls|58|23:13.770
+3|Sly_Preda|66|19:56.300
+4|[QK] DarkMoonV_|81|18:55.441
+5|MayaQK|83|20:23.889
+6|[QK] LivingLegend3D|87|27:23.356
+7|NoviceQk|96|25:33.248
+8|[QK] RandallQK|99|27:26.732
+9|[QK] MercuryQK|100|22:22.730
+10|Sly_GT4|112|25:08.761
+@ 48 | Nutritious III | 2 | 2 | 11
+11|[C] Scottah-|119|29:32.432
+@ 49 | Nanga Parbat [7] | 1 | 1 | 4
+1|[C] Scottah-|68|19:02.018
+2|[yaoi] InfernoTrials|97|22:35.084
+3|Sly_GT4|113|18:33.209
+4|[QK] RandallQK|142|24:48.722
+@ 50 | Jessamine [<3] | 1 | 1 | 6
+1|MayaQK|86|14:28.516
+2|Sly_Preda|118|26:09.468
+3|Sly_GT4|128|20:44.778
+4|[C] Scottah-|142|23:11.245
+5|[QK] MercuryQK|169|29:21.249
+6|[QK] RandallQK|185|26:34.125
+@ 51 | Gladius | 1 | 1 | 5
+1|Sly_GT4|52|11:54.776
+2|[QK] LivingLegend3D|89|19:37.438
+3|Sly_Preda|91|27:34.430
+4|[QK] RandallQK|108|21:35.553
+5|[C] Scottah-|128|22:17.120
+@ 52 | Infamous | 1 | 1 | 6
+1|[yaoi] ModRev2020|33|07:58.782
+2|[QK] RandallQK|95|22:28.607
+3|Sly_Preda|100|21:10.124
+4|Sly_GT4|105|18:19.119
+5|[C] Scottah-|130|17:02.130
+6|[QK] MercuryQK|179|29:56.453
+@ 53 | Fractured** | 1 | 1 | 7
+1|[QK] LivingLegend3D|38|13:54.052
+2|Sly_GT4|46|11:30.573
+3|[yaoi] ModRev2020|54|16:33.449
+4|[C] Scottah-|58|14:04.421
+5|[QK] MercuryQK|76|18:04.341
+6|[QK] RandallQK|87|19:26.619
+7|Sly_Preda|116|22:14.432
+@ 54 | [TFA] Pliff Plaugh* | 1 | 1 | 6
+1|[yaoi] ModRev2020|47|14:43.502
+2|MayaQK|83|17:48.986
+3|[QK] RandallQK|92|18:26.113
+4|Sly_Preda|125|28:42.166
+5|Sly_GT4|169|26:27.907
+6|[C] Scottah-|185|29:02.415
+@ 55 | Techfinity | 1 | 1 | 6
+1|[C] Scottah-|19|18:09.310
+2|Sly_GT4|25|18:55.473
+3|[yaoi] InfernoTrials|28|15:48.294
+4|[yaoi] ModRev2020|32|25:15.829
+5|[QK] RandallQK|33|29:00.716
+6|JoS.lyde|47|27:49.730
+@ 56 | Faith | 1 | 1 | 8
+1|MayaQK|60|14:58.867
+2|[yaoi] ModRev2020|69|15:18.310
+3|[QK] RandallQK|93|21:16.619
+4|Sly_Preda|104|20:54.526
+5|Sly_GT4|108|17:15.816
+6|NoviceQk|121|26:26.785
+7|[C] Scottah-|125|26:57.650
+8|[QK] MercuryQK|133|24:34.085
+@ 57 | Ramrod | 1 | 1 | 6
+1|[yaoi] ModRev2020|13|08:56.396
+2|Sly_GT4|17|08:39.409
+3|[QK] RandallQK|48|18:30.555
+4|[C] Scottah-|48|19:40.516
+5|[QK] MercuryQK|78|18:26.235
+6|Sly_Preda|97|25:02.063
+@ 58 | Lonely* | 1 | 1 | 7
+1|[QK] RandallQK|59|18:05.387
+2|[yaoi] ModRev2020|71|18:37.605
+3|Sly_GT4|82|16:30.593
+4|MayaQK|123|26:07.542
+5|NoviceQk|129|24:08.406
+6|Sly_Preda|154|28:53.256
+7|[C] Scottah-|159|25:58.167
+@ 59 | OPERATION: Neon Bullet | 1 | 1 | 7
+1|Sly_Preda|65|14:57.058
+2|MayaQK|84|19:32.749
+3|[C] Scottah-|97|19:06.567
+4|NoviceQk|112|22:29.374
+5|[QK] RandallQK|130|19:10.166
+6|Sly_GT4|169|27:44.460
+7|[yaoi] ModRev2020|173|29:24.960
+@ 60 | Anhedonia* | 1 | 1 | 1
+1|[yaoi] ModRev2020|126|20:41.027
+@ 61 | DNA | 1 | 1 | 7
+1|[C] Scottah-|55|17:55.139
+2|[QK] RandallQK|70|21:46.098
+3|[QK] MercuryQK|76|19:01.678
+4|NoviceQk|95|25:47.418
+5|MayaQK|129|24:00.481
+6|[yaoi] ModRev2020|146|26:55.004
+7|Sly_GT4|149|27:54.082
+@ 62 | Fission* | 1 | 1 | 5
+1|NoviceQk|121|18:22.423
+2|[C] Scottah-|131|21:21.069
+3|[yaoi] ModRev2020|140|21:05.215
+4|[QK] RandallQK|192|29:47.063
+5|Sly_GT4|195|27:32.369
+@ 63 | Adventurous | 1 | 1 | 5
+1|[yaoi] ModRev2020|68|18:04.597
+2|Sly_Preda|89|18:04.824
+3|NoviceQk|153|27:39.511
+4|Sly_GT4|172|26:43.901
+5|[C] Scottah-|208|24:52.551
+@ 64 | Sinister | 1 | 1 | 5
+1|[QK] LivingLegend3D|59|23:35.469
+2|Sly_GT4|61|15:31.101
+3|Sly_Preda|93|23:10.245
+4|NoviceQk|99|28:43.648
+5|[yaoi] ModRev2020|107|27:26.486
+@ 65 | Eclipse | 1 | 1 | 5
+1|[yaoi] ModRev2020|58|18:53.872
+2|[QK] RandallQK|66|22:47.061
+3|NoviceQk|77|27:32.110
+4|Sly_GT4|84|27:39.509
+5|Sly_Preda|108|29:18.827
+@ 66 | (B) Wrath of the Titans* | 1 | 1 | 2
+1|[Evil] IBlubbiI|251|22:55.751
+2|Sly_GT4|279|20:06.077
+@ 67 | Anomaly [++CPs] | 1 | 1 | 7
+1|MayaQK|83|14:43.338
+2|Sly_GT4|117|16:30.914
+3|NoviceQk|142|21:39.905
+4|[yaoi] ModRev2020|195|22:52.699
+5|[QK] RandallQK|209|26:54.206
+6|PennyJX|222|25:03.096
+7|Sly_Preda|257|29:41.359
+@ 68 | Anomaly [+CPs] | 1 | 1 | 4
+1|PennyJX|121|19:53.132
+2|[QK] RandallQK|149|22:27.766
+3|Sly_GT4|170|22:12.813
+4|MayaQK|195|25:33.501
+@ 69 | Claymore [++CPs] | 1 | 1 | 4
+1|MayaQK|112|23:33.012
+2|[QK] RandallQK|121|19:25.492
+3|Sly_GT4|123|17:08.306
+4|[C] Scottah-|168|23:57.063
+@ 70 | Claymore [+CPs] | 1 | 1 | 3
+1|Sly_GT4|94|18:34.901
+2|MayaQK|103|23:07.220
+3|[QK] RandallQK|167|22:55.931
+@ 71 | Final Sorrow [++CPs] | 1 | 2 | 15
+1|[QK] MercuryQK|59|18:36.011
+2|NoviceQk|69|14:36.217
+3|[C] Scottah-|90|17:39.634
+4|PennyJX|117|17:11.206
+5|Skilbobaggins|148|21:28.519
+6|Sly_GT4|149|19:45.063
+7|Sly_Preda|165|21:24.457
+8|[yaoi] ModRev2020|171|22:05.800
+9|MayaQK|196|20:07.918
+10|[QK] DarkMoonV_|198|24:55.380
+@ 72 | Final Sorrow [++CPs] | 2 | 2 | 15
+11|[yaoi] InfernoTrials|204|22:19.407
+12|[QK] RandallQK|220|26:14.769
+13|Danimalls|240|29:13.439
+14|[QK] sliikk|249|26:32.318
+15|[QK] LivingLegend3D|262|29:14.253
+@ 73 | Final Sorrow [+CPs] | 1 | 2 | 12
+1|PennyJX|82|15:39.178
+2|Sly_GT4|88|14:41.742
+3|[QK] RandallQK|93|17:49.053
+4|Sly_Preda|95|17:27.211
+5|[C] Scottah-|117|20:40.758
+6|[QK] MercuryQK|117|23:02.969
+7|NoviceQk|122|19:07.017
+8|[yaoi] ModRev2020|125|20:21.030
+9|Skilbobaggins|139|27:45.476
+10|[yaoi] InfernoTrials|144|23:33.490
+@ 74 | Final Sorrow [+CPs] | 2 | 2 | 12
+11|[QK] sliikk|223|28:35.160
+12|MayaQK|228|28:08.242
+@ 75 | Hattusa ++CP | 1 | 1 | 5
+1|Sly_GT4|39|13:12.402
+2|[yaoi] ModRev2020|55|16:40.681
+3|MayaQK|81|24:21.112
+4|[QK] RandallQK|111|27:29.950
+5|Sly_Preda|146|29:21.133
+@ 76 | Hattusa +Cps | 1 | 1 | 4
+1|[yaoi] ModRev2020|23|15:29.425
+2|[QK] RandallQK|25|23:56.292
+3|Sly_GT4|34|19:03.768
+4|MayaQK|101|27:23.810
+@ 77 | Hattusa 50 Cps Fix | 1 | 2 | 11
+1|MayaQK|29|14:52.864
+2|NoviceQk|61|16:42.738
+3|Sly_GT4|71|15:14.763
+4|[QK] RandallQK|137|21:42.751
+5|Sly_Preda|150|22:14.854
+6|PennyJX|155|23:58.377
+7|Skilbobaggins|165|22:42.205
+8|Danimalls|199|28:54.306
+9|[QK] MercuryQK|201|28:41.763
+10|[QK] LivingLegend3D|233|28:57.967
+@ 78 | Hattusa 50 Cps Fix | 2 | 2 | 11
+11|[QK] DarkMoonV_|254|25:29.634
+@ 79 | Whitespire (++CPs) | 1 | 1 | 7
+1|NoviceQk|88|16:46.791
+2|PennyJX|102|19:27.464
+3|[QK] RandallQK|125|18:54.885
+4|Sly_GT4|143|17:45.510
+5|Sly_Preda|175|21:46.094
+6|[yaoi] ModRev2020|175|23:40.416
+7|MayaQK|259|23:16.351
+@ 80 | Whitespire (+CPs) | 1 | 1 | 6
+1|NoviceQk|53|11:29.575
+2|[yaoi] ModRev2020|98|18:37.005
+3|MayaQK|122|23:59.768
+4|Sly_Preda|151|24:16.985
+5|Sly_GT4|160|27:59.047
+6|[QK] RandallQK|166|24:34.436
+@ 81 | OPERATION: Steel Wave ++ | 1 | 1 | 6
+1|Sly_GT4|102|13:01.827
+2|[yaoi] ModRev2020|159|20:04.665
+3|MayaQK|210|19:32.755
+4|NoviceQk|227|21:22.209
+5|[QK] RandallQK|232|24:25.695
+6|Sly_Preda|267|25:42.054
+@ 82 | OPERATION: Steel Wave + | 1 | 1 | 3
+1|Sly_GT4|73|13:52.976
+2|[yaoi] ModRev2020|131|21:05.158
+3|[QK] RandallQK|239|28:27.558
+@ 83 | SP- Rapture [+CPs]* | 1 | 1 | 8
+1|[yaoi] ModRev2020|63|09:40.364
+2|Sly_Preda|75|13:13.883
+3|MayaQK|90|11:47.812
+4|NoviceQk|93|13:35.732
+5|Sly_GT4|149|17:40.032
+6|[QK] RandallQK|179|19:36.011
+7|[C] Scottah-|234|25:25.372
+8|[QK] MercuryQK|244|23:20.197
+@ 84 | Deviant [50cps] | 1 | 1 | 8
+1|NoviceQk|62|14:32.265
+2|[QK] RandallQK|86|17:44.788
+3|[C] Scottah-|93|18:46.558
+4|Sly_GT4|129|16:52.629
+5|MayaQK|130|18:45.065
+6|Sly_Preda|170|23:45.798
+7|Skilbobaggins|259|27:22.362
+8|PennyJX|285|28:19.524
+@ 85 | Eclipse [+CPs] | 1 | 1 | 7
+1|NoviceQk|38|13:26.611
+2|Sly_Preda|45|14:52.043
+3|Sly_GT4|53|12:39.203
+4|MayaQK|64|17:19.212
+5|[yaoi] ModRev2020|71|16:58.061
+6|[QK] LivingLegend3D|111|22:52.957
+7|[QK] RandallQK|144|24:37.531
+@ 86 | Fission [+cps]* | 1 | 1 | 6
+1|[C] Scottah-|59|13:33.166
+2|[yaoi] ModRev2020|63|12:50.292
+3|[QK] RandallQK|122|16:57.974
+4|Sly_Preda|140|19:02.762
+5|NoviceQk|172|22:17.720
+6|Sly_GT4|215|19:43.462
+@ 87 | Fission [++cps]* | 1 | 1 | 6
+1|[C] Scottah-|80|11:30.971
+2|NoviceQk|137|17:03.637
+3|[QK] RandallQK|148|16:55.775
+4|Sly_GT4|191|16:32.031
+5|MayaQK|202|17:42.229
+6|Sly_Preda|277|23:24.423
+@ 88 | DNA [+CP] | 1 | 1 | 9
+1|NoviceQk|29|11:28.736
+2|[QK] RandallQK|96|18:19.619
+3|[C] Scottah-|118|24:04.661
+4|[QK] MercuryQK|125|25:28.395
+5|[yaoi] ModRev2020|139|22:20.157
+6|MayaQK|146|20:50.022
+7|Sly_GT4|152|24:03.229
+8|Danimalls|191|28:44.839
+9|Sly_Preda|211|27:59.248
+@ 89 | DNA [++CP] | 1 | 2 | 11
+1|MayaQK|42|11:16.006
+2|[C] Scottah-|57|13:20.204
+3|NoviceQk|66|15:33.363
+4|Sly_GT4|94|16:46.940
+5|[QK] MercuryQK|94|16:48.890
+6|Danimalls|142|21:29.107
+7|Sly_Preda|157|19:39.543
+8|[QK] DarkMoonV_|166|19:27.705
+9|[QK] RandallQK|210|24:39.536
+10|Skilbobaggins|218|26:45.969
+@ 90 | DNA [++CP] | 2 | 2 | 11
+11|[yaoi] ModRev2020|230|24:30.095
+@ 91 | Sinister [++CPs] | 1 | 1 | 10
+1|Sly_Preda|61|18:04.308
+2|[QK] LivingLegend3D|74|14:46.594
+3|[C] Scottah-|107|23:33.583
+4|Skilbobaggins|117|24:59.915
+5|[QK] MercuryQK|121|26:56.590
+6|[yaoi] ModRev2020|145|23:35.768
+7|Sly_GT4|165|23:08.947
+8|[QK] RandallQK|175|28:09.150
+9|[QK] DarkMoonV_|182|29:38.988
+10|MayaQK|190|26:19.948
+@ 92 | Sinister [+CPs] | 1 | 1 | 9
+1|Sly_Preda|47|16:08.042
+2|[QK] LivingLegend3D|72|19:15.975
+3|NoviceQk|77|23:01.920
+4|[C] Scottah-|81|27:12.242
+5|Sly_GT4|84|17:37.982
+6|[yaoi] ModRev2020|90|20:40.280
+7|[QK] RandallQK|92|24:33.171
+8|[QK] MercuryQK|116|24:58.479
+9|[QK] DarkMoonV_|147|26:29.466
+@ 93 | Lonely [+CP's] | 1 | 1 | 7
+1|[yaoi] ModRev2020|73|15:03.355
+2|Sly_GT4|119|16:30.518
+3|[C] Scottah-|141|20:23.531
+4|[QK] RandallQK|142|22:55.820
+5|NoviceQk|144|24:45.095
+6|MayaQK|145|21:53.590
+7|Sly_Preda|194|22:33.646
