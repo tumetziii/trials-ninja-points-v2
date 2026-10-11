@@ -156,7 +156,7 @@ const PARAMS = [
   { group: "Time" },
   { id: "te", label: "Time weight", min: 0, max: 0.5, step: 0.005, def: 0.15, f: (v) => v.toFixed(3),
     hint: "Exponent on avg time / run time." },
-  { id: "tc", label: "Time cap", min: 0, max: 50, step: 1, def: 10, f: (v) => "±" + Math.round(v) + "%",
+  { id: "tc", label: "Time cap", min: 0, max: 50, step: 1, def: 5, f: (v) => "±" + Math.round(v) + "%",
     hint: "Most time can move a run's score either way." },
   { group: "Depth vs peak" },
   { id: "dec", label: "Decay per run", min: 0.8, max: 1, step: 0.005, def: 0.95, f: (v) => Math.round(v * 1000) / 10 + "%",
