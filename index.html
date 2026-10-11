@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@600;700;800&family=Source+Sans+3:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
 <style>
-/* Layout: one reading column; questions first, then scenario cards, rank matrix, and a live sandbox. */
+/* Layout: header, then a leaderboard test with every scoring assumption on a slider. */
 :root {
   --bg: #eceff2;
   --surface: #f8f9fb;
@@ -41,16 +41,15 @@
 }
 * { box-sizing: border-box; }
 body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.55; }
-.wrap { max-width: 980px; margin: 0 auto; padding-inline: 20px; padding-block: 40px 72px; display: grid; gap: 56px; }
+.wrap { max-width: 1040px; margin: 0 auto; padding-inline: 16px; padding-block: 40px 72px; display: grid; gap: 48px; }
 h1, h2, h3 { font-family: var(--display); line-height: 1.05; text-wrap: balance; margin: 0; letter-spacing: 0.01em; }
 h1 { font-size: clamp(2.4rem, 6vw, 3.6rem); font-weight: 800; text-transform: uppercase; }
 h2 { font-size: 1.9rem; font-weight: 700; text-transform: uppercase; }
-h3 { font-size: 1.25rem; font-weight: 700; }
+h3 { font-family: var(--mono); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
 p { margin: 0; max-width: 68ch; }
 .eyebrow { font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
 .stack { display: grid; gap: 14px; }
 .muted { color: var(--muted); }
-.num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
 
 header { display: grid; gap: 16px; border-bottom: 3px solid var(--ink); padding-bottom: 28px; }
 .facts { display: flex; flex-wrap: wrap; gap: 10px 28px; margin-top: 6px; }
@@ -58,67 +57,44 @@ header { display: grid; gap: 16px; border-bottom: 3px solid var(--ink); padding-
 .fact b { font-family: var(--mono); font-size: 1.15rem; font-weight: 600; }
 .fact span { font-size: 0.8rem; color: var(--muted); }
 
-/* Questions */
-.qgroup { display: grid; gap: 0; border-top: 1px solid var(--line); }
-.q { display: grid; grid-template-columns: 3.2rem 1fr; gap: 4px 14px; padding-block: 18px; border-bottom: 1px solid var(--line); }
-.q .qn { font-family: var(--display); font-weight: 800; font-size: 1.5rem; color: var(--accent); line-height: 1.1; }
-.q .qt { font-weight: 700; font-size: 1.06rem; min-width: 0; }
-.q .qd { grid-column: 2; color: var(--muted); font-size: 0.95rem; min-width: 0; }
-.q .qd b { color: var(--ink); font-weight: 600; }
-.chip { display: inline-block; font-family: var(--mono); font-size: 0.78rem; padding: 1px 7px; border-radius: 4px; background: var(--accent-soft); color: var(--ink); white-space: nowrap; }
-
-/* Scenarios */
-.scen { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; }
-.sc { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 14px; display: grid; gap: 8px; align-content: start; cursor: pointer; text-align: left; font: inherit; color: inherit; }
-.sc:hover { border-color: var(--accent); }
-.sc:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-.sc[aria-pressed="true"] { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
-.sc .tag { font-family: var(--mono); font-size: 0.72rem; color: var(--muted); letter-spacing: 0.08em; text-transform: uppercase; }
-.sc h3 { font-size: 1.2rem; }
-.sc dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 2px 10px; font-size: 0.85rem; }
-.sc dt { color: var(--muted); }
-.sc dd { margin: 0; font-family: var(--mono); text-align: right; font-variant-numeric: tabular-nums; }
-.sc .big { border-top: 1px dashed var(--line); padding-top: 8px; font-size: 0.85rem; color: var(--muted); }
-.sc .big b { font-family: var(--mono); color: var(--ink); font-size: 1.05rem; }
-.sc .why { font-size: 0.82rem; color: var(--muted); }
-
 /* Tables */
 .tablebox { overflow-x: auto; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); }
 table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
 th, td { padding: 7px 10px; text-align: right; white-space: nowrap; border-bottom: 1px solid var(--line); }
 th { font-family: var(--mono); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); background: var(--bg); position: sticky; top: 0; }
-th.sel { color: var(--accent); }
 td.name, th.name { text-align: left; }
 td.name { font-weight: 600; }
 tbody tr:last-child td { border-bottom: 0; }
-td.num, td .num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
-td.sel { background: var(--accent-soft); }
-tr.out td.name { color: var(--muted); font-weight: 400; }
-.d { font-family: var(--mono); font-size: 0.75rem; margin-left: 4px; display: inline-block; min-width: 2.4em; text-align: left; }
+td.num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.d { font-family: var(--mono); font-size: 0.75rem; display: inline-block; min-width: 2.4em; text-align: left; }
 .d.up { color: var(--up); } .d.dn { color: var(--down); } .d.eq { color: var(--muted); }
 .runs { display: inline-flex; gap: 6px; font-family: var(--mono); font-size: 0.8rem; }
 .runs i { font-style: normal; }
 .r7 { color: var(--l7); } .r8 { color: var(--l8); } .r9 { color: var(--l9); font-weight: 600; }
 .legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 0.85rem; color: var(--muted); }
 
-/* Sandbox */
-.sandbox { display: grid; grid-template-columns: minmax(0, 300px) minmax(0, 1fr); gap: 24px; align-items: start; }
-@media (max-width: 760px) { .sandbox { grid-template-columns: 1fr; } }
-.controls { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 16px; display: grid; gap: 18px; position: sticky; top: calc(env(safe-area-inset-top, 0px) + 12px); }
-@media (max-width: 760px) { .controls { position: static; } }
-.ctl { display: grid; gap: 6px; }
+/* Leaderboard test */
+.sandbox { display: grid; grid-template-columns: minmax(0, 320px) minmax(0, 1fr); gap: 24px; align-items: start; }
+@media (max-width: 780px) { .sandbox { grid-template-columns: 1fr; } }
+.controls { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 16px; display: grid; gap: 16px; position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow-y: auto; }
+@media (max-width: 780px) { .controls { position: static; max-height: none; } }
+.group { display: grid; gap: 14px; }
+.group + .group { border-top: 1px solid var(--line); padding-top: 14px; }
+.ctl { display: grid; gap: 4px; }
 .ctl label { display: flex; justify-content: space-between; gap: 8px; font-weight: 600; font-size: 0.92rem; }
-.ctl label output { font-family: var(--mono); color: var(--accent); }
-.ctl small { color: var(--muted); font-size: 0.8rem; }
+.ctl label output { font-family: var(--mono); color: var(--accent); white-space: nowrap; }
+.ctl label output.changed::after { content: " •"; color: var(--l8); }
+.ctl small { color: var(--muted); font-size: 0.8rem; line-height: 1.4; }
 input[type="range"] { width: 100%; accent-color: var(--accent); }
+button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .presets { display: flex; flex-wrap: wrap; gap: 6px; }
 .presets button { font: 600 0.78rem var(--mono); padding: 5px 9px; border-radius: 4px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); cursor: pointer; }
 .presets button:hover { border-color: var(--accent); }
+.presets button.reset { border-color: var(--accent); color: var(--accent); }
 .equiv { font-size: 0.88rem; color: var(--muted); border-top: 1px dashed var(--line); padding-top: 12px; }
 .equiv b { font-family: var(--mono); color: var(--ink); }
 .note { font-size: 0.88rem; color: var(--muted); }
 footer { font-size: 0.85rem; color: var(--muted); border-top: 1px solid var(--line); padding-top: 18px; display: grid; gap: 6px; }
-@media (max-width: 480px) { .q { grid-template-columns: 2.2rem 1fr; } .q .qn { font-size: 1.2rem; } }
 </style>
 
 </head>
@@ -127,7 +103,7 @@ footer { font-size: 0.85rem; color: var(--muted); border-top: 1px solid var(--li
   <header>
     <div class="eyebrow">Trials Fusion · Ninja points · draft for feedback</div>
     <h1>How much is a level 8 worth?</h1>
-    <p>The points system turns every PC leaderboard run on ninja levels 7–9 into a rider rating. Levels 1–7 sit on a smooth curve. Past level 7, the values are set by hand. Those values are opinions, so I'd like yours. Answer the questions below by number, then use the scenarios and sandbox to see what each answer does to the top 20.</p>
+    <p>The points system turns every PC leaderboard run on ninja levels 7–9 into a rider rating. Every assumption behind it is a slider below. Move them and the top 20 recalculates from all 2,168 runs.</p>
     <div class="facts">
       <div class="fact"><b>2,168</b><span>runs scored</span></div>
       <div class="fact"><b>1,503 · 639 · 26</b><span>L7 · L8 · L9 runs</span></div>
@@ -136,88 +112,26 @@ footer { font-size: 0.85rem; color: var(--muted); border-top: 1px solid var(--li
     </div>
   </header>
 
-  <section class="stack" aria-labelledby="qh">
-    <div class="eyebrow">Part 1</div>
-    <h2 id="qh">Questions</h2>
-    <p class="muted">"Average pass" means a run with the typical fault count and time for that level: about 110 faults and 20–24 minutes. Level worth is a multiplier on that average pass.</p>
-
-    <h3 style="margin-top:14px">Level worth</h3>
-    <div class="qgroup">
-      <div class="q"><div class="qn">1</div><div class="qt">How many average level 7 passes is one average level 8 pass worth?</div>
-        <div class="qd">Now <span class="chip">13×</span>, set by judgement. Passer counts would say <b>2.47×</b> (111 riders have a level 7, 45 have a level 8). If the level 1–7 curve just kept going it would be <b>1.26×</b>. The scenarios test 1.26× to 20×.</div></div>
-      <div class="q"><div class="qn">2</div><div class="qt">How many average level 8 passes is one average level 9 pass worth?</div>
-        <div class="qd">Now <span class="chip">20×</span>, set by judgement. Passer counts would say <b>5.6×</b> (45 riders vs 8). Together with Q1, the current setting makes one level 9 worth <b>260</b> level 7s.</div></div>
-      <div class="q"><div class="qn">3</div><div class="qt">Should level worth come from how few people have passed it, from how hard riders think it is, or a mix?</div>
-        <div class="qd">Both levels use judgement today. Rarity is objective but rewards levels that are under-played as well as hard. The passer counts include padding for riders missing from PC boards: level 7 is 81 PC riders <b>plus 30</b> for console and pre-2020 passes, level 8 is 42 <b>plus 3</b>, level 9 is 8 with none. If you prefer rarity, do those counts look right?</div></div>
-      <div class="q"><div class="qn">4</div><div class="qt">One level 9 pass vs a deep level 8 list: who should rank higher?</div>
-        <div class="qd">PennyJX has 17 L7, 21 L8 and 1 L9 runs. [C] Scottah- has 19 L7 and 50 L8 runs and no L9. The current model puts Penny 8th and Scottah 9th. The rarity-only model puts Scottah 8th and Penny 10th. Which order feels right?</div></div>
-      <div class="q"><div class="qn">5</div><div class="qt">How much should a big level 7 list count against fewer, harder passes?</div>
-        <div class="qd">Danimalls has 109 L7 and 30 L8 runs. Skilbobaggins has 17 L7 and 13 L8. They sit 11th and 14th now. Extending the curve pushes Danimalls to 5th and Skilbobaggins to 17th.</div></div>
-    </div>
-
-    <h3 style="margin-top:22px">Tracks within a level</h3>
-    <div class="qgroup">
-      <div class="q"><div class="qn">6</div><div class="qt">Should every track in a level be worth the same?</div>
-        <div class="qd">Right now every level 8 track has the same base worth. Faults and time are compared to the level average, not the track average, so a run on an easier track also scores better on faults.</div></div>
-      <div class="q"><div class="qn">7</div><div class="qt">Should checkpoint variants (+CPs, ++CPs) count as full separate tracks?</div>
-        <div class="qd">Many level 8 tracks have checkpoint variants. They are currently scored as separate tracks at full level 8 worth, so one layout can earn points more than once.</div></div>
-    </div>
-
-    <h3 style="margin-top:22px">Other inputs</h3>
-    <div class="qgroup">
-      <div class="q"><div class="qn">8</div><div class="qt">How much should faults matter?</div>
-        <div class="qd">A 0-fault run is worth about <span class="chip">3×</span> an average pass on the same level, including a 1.15× bonus for a clean run. A 300-fault run is worth about 0.7×. With level 8 at 13×, a 0-fault level 7 is worth about a quarter of an average level 8. Too generous, too stingy, or about right?</div></div>
-      <div class="q"><div class="qn">9</div><div class="qt">Depth or peak?</div>
-        <div class="qd">A rider's best 100 runs count, each worth <span class="chip">95%</span> of the one before. So the 14th-best run counts half, and the 45th about a tenth. Should more runs count, or fewer?</div></div>
-      <div class="q"><div class="qn">10</div><div class="qt">How much should time matter?</div>
-        <div class="qd">Time can move a run's score by at most <span class="chip">±10%</span>. It is kept weak because faster runs usually also have fewer faults, which already scores.</div></div>
-    </div>
-  </section>
-
-  <section class="stack" aria-labelledby="sh">
-    <div class="eyebrow">Part 2</div>
-    <h2 id="sh">Five answers, five top 20s</h2>
-    <p class="muted">Each scenario is one set of answers to Q1 and Q2. Everything else stays as it is now. Pick a scenario to sort the table by it. The arrows show movement against the current model.</p>
-    <div class="scen" id="scen"></div>
-    <div class="legend">
-      <span>Runs: <span class="r7">L7</span> · <span class="r8">L8</span> · <span class="r9">L9</span></span>
-      <span><span class="d up">▲3</span> up vs current</span>
-      <span><span class="d dn">▼3</span> down vs current</span>
-      <span>Grey name: outside the top 20 in the selected scenario</span>
-    </div>
-    <div class="tablebox"><table id="matrix"></table></div>
-    <p class="note">Sly_GT4 and ModRev2020 hold 1st and 2nd in every scenario. Once a level 8 is worth more than about 2.5 level 7s, the top 14 barely changes. Big reshuffles only happen if levels 8 and 9 are worth little more than the curve suggests. Then big level 7 lists catch up and riders like Danimalls and Clashh... jump into the top 13.</p>
-  </section>
-
   <section class="stack" aria-labelledby="bh">
-    <div class="eyebrow">Part 3</div>
-    <h2 id="bh">Try your own answers</h2>
-    <p class="muted">Set Q1 and Q2 to your answers and the top 20 recalculates from all 2,168 runs.</p>
+    <h2 id="bh">Leaderboard test</h2>
+    <p class="muted">Sliders start at the current model. A <span style="color:var(--l8)">•</span> marks a value you've changed. "vs now" shows each rider's movement against the current model.</p>
     <div class="sandbox">
-      <div class="controls">
-        <div class="ctl">
-          <label for="r8">Q1 · L8 in L7s <output id="o8"></output></label>
-          <input type="range" id="r8" min="0" max="1000" step="1">
-          <small>1× to 25×</small>
-        </div>
-        <div class="ctl">
-          <label for="r9">Q2 · L9 in L8s <output id="o9"></output></label>
-          <input type="range" id="r9" min="0" max="1000" step="1">
-          <small>1× to 60×</small>
-        </div>
-        <div class="presets" id="presets"></div>
-        <div class="equiv" id="equiv"></div>
-      </div>
+      <div class="controls" id="controls"></div>
       <div class="stack" style="min-width:0">
+        <div class="legend">
+          <span>Runs: <span class="r7">L7</span> · <span class="r8">L8</span> · <span class="r9">L9</span></span>
+          <span><span class="d up">▲3</span> up vs now</span>
+          <span><span class="d dn">▼3</span> down vs now</span>
+        </div>
         <div class="tablebox"><table id="custom"></table></div>
-        <p class="note">Ratings use the current rating curve, which was tuned so the top rider lands near 2,880 under the current model. Steeper or flatter answers move everyone's rating, so compare ranks, not raw ratings, across scenarios.</p>
+        <p class="note">Ratings use the current rating curve, which was tuned so the top rider lands near 2,880 under the current model. Other settings move everyone's rating, so compare ranks rather than raw ratings.</p>
       </div>
     </div>
   </section>
 
   <footer>
     <div>Data: Trials Fusion PC leaderboards, overall tab, captured 10 Oct 2026. Rider names are shown in full with clan tags, as on the boards.</div>
-    <div>Scoring per run = base 10 × level worth × fault multiplier × time multiplier. A rider's best 100 runs are summed with a 0.95 decay, then mapped to a rating with a soft cap near 3,000.</div>
+    <div>Scoring per run = base 10 × level worth × fault multiplier × time multiplier. A rider's best runs are summed with a decay, then mapped to a rating with a soft cap near 3,000.</div>
   </footer>
 </div>
 
@@ -226,21 +140,53 @@ const DATA = {"players":["AZB_Meister","AnaQK","ApeBoks","Aremata","Bola_369","C
 const AVG_F = {7: 110, 8: 110, 9: 113};
 const AVG_T = {7: 1187.378, 8: 1298.834, 9: 1460.378};
 const L7 = 0.105 * 7 + 0.03315 * 49;
-function faultScaler(f, level) {
-  f = Math.min(f, 499);
-  let m = Math.pow((AVG_F[level] + 10) / (f + 10), 0.385);
-  if (f === 0) m *= 1.15;
+
+// Every scoring assumption. log: slider moves on a log scale so small ratios get as much travel as large ones.
+const PARAMS = [
+  { group: "Level worth" },
+  { id: "r8", label: "L8 worth, in L7s", min: 1, max: 25, def: 13, log: true, f: (v) => v.toFixed(2) + "×",
+    hint: "One average L8 pass vs one average L7. Passer counts say 2.47×, the L1–7 curve says 1.26×." },
+  { id: "r9", label: "L9 worth, in L8s", min: 1, max: 60, def: 20, log: true, f: (v) => v.toFixed(2) + "×",
+    hint: "One average L9 pass vs one average L8. Passer counts say 5.6×." },
+  { group: "Faults" },
+  { id: "fe", label: "Fault weight", min: 0, max: 1, step: 0.005, def: 0.385, f: (v) => v.toFixed(3),
+    hint: "Exponent on (avg faults + 10) / (faults + 10). 0 means faults don't matter." },
+  { id: "cb", label: "Clean-run bonus", min: 1, max: 1.5, step: 0.01, def: 1.15, f: (v) => v.toFixed(2) + "×",
+    hint: "Extra multiplier for a 0-fault run." },
+  { id: "fcap", label: "Fault cap", min: 100, max: 1000, step: 1, def: 499, f: (v) => Math.round(v) + "",
+    hint: "Faults above this are treated as this many." },
+  { group: "Time" },
+  { id: "te", label: "Time weight", min: 0, max: 0.5, step: 0.005, def: 0.15, f: (v) => v.toFixed(3),
+    hint: "Exponent on avg time / run time." },
+  { id: "tc", label: "Time cap", min: 0, max: 50, step: 1, def: 10, f: (v) => "±" + Math.round(v) + "%",
+    hint: "Most time can move a run's score either way." },
+  { id: "tmax", label: "Slowest time counted", min: 1200, max: 3600, step: 60, def: 1800, f: (v) => Math.round(v / 60) + " min",
+    hint: "Runs slower than this are treated as this slow." },
+  { group: "Depth vs peak" },
+  { id: "dec", label: "Decay per run", min: 0.8, max: 1, step: 0.005, def: 0.95, f: (v) => Math.round(v * 1000) / 10 + "%",
+    hint: "Each run counts this share of the one before." },
+  { id: "topn", label: "Runs counted", min: 5, max: 300, step: 5, def: 100, f: (v) => Math.round(v) + "",
+    hint: "Only a rider's best N runs count." },
+];
+const CTL = PARAMS.filter((p) => p.id);
+const DEF = Object.fromEntries(CTL.map((p) => [p.id, p.def]));
+
+function faultScaler(f, level, P) {
+  f = Math.min(f, P.fcap);
+  let m = Math.pow((AVG_F[level] + 10) / (f + 10), P.fe);
+  if (f === 0) m *= P.cb;
   return m;
 }
-function timeScaler(t, level) {
-  t = Math.min(t, 1800);
-  return Math.min(1.1, Math.max(0.9, Math.pow(AVG_T[level] / t, 0.15)));
+function timeScaler(t, level, P) {
+  t = Math.min(t, P.tmax);
+  const c = P.tc / 100;
+  return Math.min(1 + c, Math.max(1 - c, Math.pow(AVG_T[level] / t, P.te)));
 }
-function rank(DATA, r8, r9) {
-  const lv = {7: L7, 8: L7 * r8, 9: L7 * r8 * r9};
+function rank(DATA, P) {
+  const lv = {7: L7, 8: L7 * P.r8, 9: L7 * P.r8 * P.r9};
   const by = new Map();
   for (const [p, l, f, t] of DATA.runs) {
-    const s = 10 * lv[l] * faultScaler(f, l) * timeScaler(t, l);
+    const s = 10 * lv[l] * faultScaler(f, l, P) * timeScaler(t, l, P);
     if (!by.has(p)) by.set(p, []);
     by.get(p).push(s);
   }
@@ -248,7 +194,7 @@ function rank(DATA, r8, r9) {
   for (const [p, arr] of by) {
     arr.sort((a, b) => b - a);
     let sc = 0;
-    for (let i = 0; i < Math.min(100, arr.length); i++) sc += arr[i] * Math.pow(0.95, i);
+    for (let i = 0; i < Math.min(P.topn, arr.length); i++) sc += arr[i] * Math.pow(P.dec, i);
     let base = 281.7 * Math.log(1 + sc / 1.48);
     if (base > 2400) base = 2400 + 1925.5 * Math.log(1 + (base - 2400) / 1925.5);
     out.push({p, score: sc, rating: Math.round(base)});
@@ -257,22 +203,9 @@ function rank(DATA, r8, r9) {
   return out;
 }
 
-
-
-const SCEN = [
-  { id: "cur", tag: "Now", name: "Current model", r: [13, 20], why: "Both steps set by judgement." },
-  { id: "pop", tag: "Rarity", name: "Passer counts only", r: [111 / 45, 45 / 8], why: "Each step set by how many riders passed." },
-  { id: "flat", tag: "Curve", name: "Keep the curve", r: [1.2553, 1.2257], why: "Level 1–7 curve extended. Hard levels earn little extra." },
-  { id: "mod", tag: "Middle", name: "Moderate", r: [6, 10], why: "About halfway between rarity and the current settings." },
-  { id: "steep", tag: "Peak", name: "Steep", r: [20, 40], why: "Top-level passes dominate the ranking." },
-];
-
 const counts = {};
 for (const [p, l] of DATA.runs) { (counts[p] ||= { 7: 0, 8: 0, 9: 0 })[l]++; }
-const results = {};
-for (const s of SCEN) results[s.id] = rank(DATA, ...s.r);
-const rankOf = {};
-for (const s of SCEN) { rankOf[s.id] = new Map(results[s.id].map((x, i) => [x.p, i + 1])); }
+const nowRank = new Map(rank(DATA, DEF).map((x, i) => [x.p, i + 1]));
 
 const fmt = (x) => x >= 100 ? Math.round(x).toLocaleString() : x >= 10 ? x.toFixed(1) : x.toFixed(2);
 const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -284,69 +217,57 @@ const delta = (now, base) => {
   return `<span class="d eq">·</span>`;
 };
 
-let selected = "cur";
-try { selected = localStorage.getItem("nlw-scen") || "cur"; } catch (e) {}
-if (!SCEN.some((s) => s.id === selected)) selected = "cur";
+// Slider position <-> value
+const toVal = (p, pos) => p.log ? p.min * Math.pow(p.max / p.min, pos / 1000) : +pos;
+const toPos = (p, v) => p.log ? Math.round(1000 * Math.log(v / p.min) / Math.log(p.max / p.min)) : v;
 
-function renderCards() {
-  document.getElementById("scen").innerHTML = SCEN.map((s) => {
-    const [a, b] = s.r;
-    return `<button class="sc" type="button" data-id="${s.id}" aria-pressed="${s.id === selected}">
-      <span class="tag">${s.tag}</span><h3>${s.name}</h3>
-      <dl><dt>L8 = L7 ×</dt><dd>${a.toFixed(2)}</dd><dt>L9 = L8 ×</dt><dd>${b.toFixed(2)}</dd></dl>
-      <div class="big">One L9 = <b>${fmt(a * b)}</b> L7s</div>
-      <div class="why">${s.why}</div></button>`;
-  }).join("");
-  document.querySelectorAll(".sc").forEach((b) => b.addEventListener("click", () => {
-    selected = b.dataset.id;
-    try { localStorage.setItem("nlw-scen", selected); } catch (e) {}
-    renderCards(); renderMatrix();
-  }));
+const PRESETS = [
+  { name: "Reset all", reset: true },
+  { name: "Rarity", r: [111 / 45, 45 / 8] },
+  { name: "Curve", r: [1.2553, 1.2257] },
+  { name: "Moderate", r: [6, 10] },
+  { name: "Steep", r: [20, 40] },
+];
+
+let html = "", open = false;
+for (const p of PARAMS) {
+  if (p.group) { html += `${open ? "</div>" : ""}<div class="group"><h3>${p.group}</h3>`; open = true; continue; }
+  const range = p.log ? `min="0" max="1000" step="1"` : `min="${p.min}" max="${p.max}" step="${p.step}"`;
+  html += `<div class="ctl"><label for="s-${p.id}">${p.label} <output id="o-${p.id}"></output></label>
+    <input type="range" id="s-${p.id}" ${range}><small>${p.hint} Now ${p.f(p.def)}.</small></div>`;
 }
+html += `</div><div class="group"><h3>Presets for level worth</h3><div class="presets">${PRESETS.map((x, i) => `<button type="button" data-i="${i}" class="${x.reset ? "reset" : ""}">${x.name}</button>`).join("")}</div>
+  <div class="equiv" id="equiv"></div></div>`;
+document.getElementById("controls").innerHTML = html;
 
-function renderMatrix() {
-  const union = new Set();
-  for (const s of SCEN) results[s.id].slice(0, 20).forEach((x) => union.add(x.p));
-  const rows = [...union].sort((a, b) => rankOf[selected].get(a) - rankOf[selected].get(b));
-  const head = `<thead><tr><th class="name">Rider</th><th>Runs</th>${SCEN.map((s) => `<th class="${s.id === selected ? "sel" : ""}">${s.name}</th>`).join("")}</tr></thead>`;
-  const body = rows.map((p) => {
-    const out = rankOf[selected].get(p) > 20;
-    const base = rankOf.cur.get(p);
-    const cells = SCEN.map((s) => {
-      const r = rankOf[s.id].get(p);
-      return `<td class="num ${s.id === selected ? "sel" : ""}">${r}${s.id === "cur" ? `<span class="d eq"></span>` : delta(r, base)}</td>`;
-    }).join("");
-    return `<tr class="${out ? "out" : ""}"><td class="name">${esc(DATA.players[p])}</td><td>${runsCell(p)}</td>${cells}</tr>`;
-  }).join("");
-  document.getElementById("matrix").innerHTML = head + `<tbody>${body}</tbody>`;
-}
+const el = (id) => document.getElementById("s-" + id);
+// Exact values from presets, so log sliders don't round 20× to 20.03×; dragging a slider drops its entry
+const exact = {};
+const current = () => Object.fromEntries(CTL.map((p) => [p.id, p.id in exact ? exact[p.id] : toVal(p, +el(p.id).value)]));
+function set(vals) { for (const p of CTL) if (p.id in vals) { el(p.id).value = toPos(p, vals[p.id]); exact[p.id] = vals[p.id]; } render(); }
 
-// Sliders use a log scale so small ratios get as much travel as large ones
-const RANGES = { r8: [1, 25], r9: [1, 60] };
-const toVal = (id, pos) => { const [lo, hi] = RANGES[id]; return lo * Math.pow(hi / lo, pos / 1000); };
-const toPos = (id, v) => { const [lo, hi] = RANGES[id]; return Math.round(1000 * Math.log(v / lo) / Math.log(hi / lo)); };
-const sliders = ["r8", "r9"].map((id) => document.getElementById(id));
-
-function setSliders(r) { sliders.forEach((el, i) => { el.value = toPos(el.id, r[i]); }); renderCustom(); }
-
-function renderCustom() {
-  const r = sliders.map((el) => toVal(el.id, +el.value));
-  ["o8", "o9"].forEach((id, i) => { document.getElementById(id).textContent = r[i].toFixed(2) + "×"; });
+function render() {
+  const P = current();
+  for (const p of CTL) {
+    const o = document.getElementById("o-" + p.id);
+    o.textContent = p.f(P[p.id]);
+    o.classList.toggle("changed", p.f(P[p.id]) !== p.f(p.def));
+  }
+  const clean = Math.pow((AVG_F[7] + 10) / 10, P.fe) * P.cb;
   document.getElementById("equiv").innerHTML =
-    `One L8 = <b>${fmt(r[0])}</b> L7s<br>One L9 = <b>${fmt(r[0] * r[1])}</b> L7s<br>A 0-fault L7 = <b>${fmt(2.99 / r[0])}</b> average L8s`;
-  const res = rank(DATA, ...r).slice(0, 20);
+    `One L8 = <b>${fmt(P.r8)}</b> L7s<br>One L9 = <b>${fmt(P.r8 * P.r9)}</b> L7s<br>A 0-fault L7 = <b>${fmt(clean / P.r8)}</b> average L8s`;
+  const res = rank(DATA, P).slice(0, 20);
   const head = `<thead><tr><th>#</th><th class="name">Rider</th><th>Runs</th><th>Rating</th><th>vs now</th></tr></thead>`;
-  const body = res.map((x, i) => `<tr><td class="num">${i + 1}</td><td class="name">${esc(DATA.players[x.p])}</td><td>${runsCell(x.p)}</td><td class="num">${x.rating.toLocaleString()}</td><td>${delta(i + 1, rankOf.cur.get(x.p))}</td></tr>`).join("");
+  const body = res.map((x, i) => `<tr><td class="num">${i + 1}</td><td class="name">${esc(DATA.players[x.p])}</td><td>${runsCell(x.p)}</td><td class="num">${x.rating.toLocaleString()}</td><td>${delta(i + 1, nowRank.get(x.p))}</td></tr>`).join("");
   document.getElementById("custom").innerHTML = head + `<tbody>${body}</tbody>`;
 }
 
-sliders.forEach((el) => el.addEventListener("input", renderCustom));
-document.getElementById("presets").innerHTML = SCEN.map((s) => `<button type="button" data-id="${s.id}">${s.name}</button>`).join("");
-document.querySelectorAll("#presets button").forEach((b) => b.addEventListener("click", () => setSliders(SCEN.find((s) => s.id === b.dataset.id).r)));
-
-renderCards();
-renderMatrix();
-setSliders(SCEN[0].r);
+CTL.forEach((p) => el(p.id).addEventListener("input", () => { delete exact[p.id]; render(); }));
+document.querySelectorAll(".presets button").forEach((b) => b.addEventListener("click", () => {
+  const x = PRESETS[+b.dataset.i];
+  set(x.reset ? DEF : { r8: x.r[0], r9: x.r[1] });
+}));
+set(DEF);
 </script>
 
 </body>
