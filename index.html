@@ -153,15 +153,11 @@ const PARAMS = [
     hint: "Exponent on (avg faults + 10) / (faults + 10). 0 means faults don't matter." },
   { id: "cb", label: "Clean-run bonus", min: 1, max: 1.5, step: 0.01, def: 1.15, f: (v) => v.toFixed(2) + "×",
     hint: "Extra multiplier for a 0-fault run." },
-  { id: "fcap", label: "Fault cap", min: 100, max: 1000, step: 1, def: 499, f: (v) => Math.round(v) + "",
-    hint: "Faults above this are treated as this many." },
   { group: "Time" },
   { id: "te", label: "Time weight", min: 0, max: 0.5, step: 0.005, def: 0.15, f: (v) => v.toFixed(3),
     hint: "Exponent on avg time / run time." },
   { id: "tc", label: "Time cap", min: 0, max: 50, step: 1, def: 10, f: (v) => "±" + Math.round(v) + "%",
     hint: "Most time can move a run's score either way." },
-  { id: "tmax", label: "Slowest time counted", min: 1200, max: 3600, step: 60, def: 1800, f: (v) => Math.round(v / 60) + " min",
-    hint: "Runs slower than this are treated as this slow." },
   { group: "Depth vs peak" },
   { id: "dec", label: "Decay per run", min: 0.8, max: 1, step: 0.005, def: 0.95, f: (v) => Math.round(v * 1000) / 10 + "%",
     hint: "Each run counts this share of the one before." },
@@ -172,13 +168,11 @@ const CTL = PARAMS.filter((p) => p.id);
 const DEF = Object.fromEntries(CTL.map((p) => [p.id, p.def]));
 
 function faultScaler(f, level, P) {
-  f = Math.min(f, P.fcap);
   let m = Math.pow((AVG_F[level] + 10) / (f + 10), P.fe);
   if (f === 0) m *= P.cb;
   return m;
 }
 function timeScaler(t, level, P) {
-  t = Math.min(t, P.tmax);
   const c = P.tc / 100;
   return Math.min(1 + c, Math.max(1 - c, Math.pow(AVG_T[level] / t, P.te)));
 }
